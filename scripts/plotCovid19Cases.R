@@ -35,6 +35,7 @@ options(scipen=1000000)
 
 # read in data from Johns Hopkins
 # https://github.com/CSSEGISandData/COVID-19
+# get data with "git clone https://github.com/CSSEGISandData/COVID-19 JHU_COVID-19"
 setwd("/Users/dmacguigan/Documents/covid19/JHU_COVID-19/csse_covid_19_data/csse_covid_19_daily_reports")
 files <- list.files(path=".", pattern="*.csv")
 caseData = lapply(files, read.csv)
