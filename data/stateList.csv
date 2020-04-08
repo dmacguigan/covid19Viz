@@ -1,0 +1,3146 @@
+state,FIPS,abrv,county
+Alabama,01,AL,Autauga
+Alabama,01,AL,Baldwin
+Alabama,01,AL,Barbour
+Alabama,01,AL,Bibb
+Alabama,01,AL,Blount
+Alabama,01,AL,Bullock
+Alabama,01,AL,Butler
+Alabama,01,AL,Calhoun
+Alabama,01,AL,Chambers
+Alabama,01,AL,Cherokee
+Alabama,01,AL,Chilton
+Alabama,01,AL,Choctaw
+Alabama,01,AL,Clarke
+Alabama,01,AL,Clay
+Alabama,01,AL,Cleburne
+Alabama,01,AL,Coffee
+Alabama,01,AL,Colbert
+Alabama,01,AL,Conecuh
+Alabama,01,AL,Coosa
+Alabama,01,AL,Covington
+Alabama,01,AL,Crenshaw
+Alabama,01,AL,Cullman
+Alabama,01,AL,Dale
+Alabama,01,AL,Dallas
+Alabama,01,AL,DeKalb
+Alabama,01,AL,Elmore
+Alabama,01,AL,Escambia
+Alabama,01,AL,Etowah
+Alabama,01,AL,Fayette
+Alabama,01,AL,Franklin
+Alabama,01,AL,Geneva
+Alabama,01,AL,Greene
+Alabama,01,AL,Hale
+Alabama,01,AL,Henry
+Alabama,01,AL,Houston
+Alabama,01,AL,Jackson
+Alabama,01,AL,Jefferson
+Alabama,01,AL,Lamar
+Alabama,01,AL,Lauderdale
+Alabama,01,AL,Lawrence
+Alabama,01,AL,Lee
+Alabama,01,AL,Limestone
+Alabama,01,AL,Lowndes
+Alabama,01,AL,Macon
+Alabama,01,AL,Madison
+Alabama,01,AL,Marengo
+Alabama,01,AL,Marion
+Alabama,01,AL,Marshall
+Alabama,01,AL,Mobile
+Alabama,01,AL,Monroe
+Alabama,01,AL,Montgomery
+Alabama,01,AL,Morgan
+Alabama,01,AL,Perry
+Alabama,01,AL,Pickens
+Alabama,01,AL,Pike
+Alabama,01,AL,Randolph
+Alabama,01,AL,Russell
+Alabama,01,AL,Shelby
+Alabama,01,AL,St. Clair
+Alabama,01,AL,Sumter
+Alabama,01,AL,Talladega
+Alabama,01,AL,Tallapoosa
+Alabama,01,AL,Tuscaloosa
+Alabama,01,AL,Walker
+Alabama,01,AL,Washington
+Alabama,01,AL,Wilcox
+Alabama,01,AL,Winston
+Alaska,02,AK,Aleutians East
+Alaska,02,AK,Aleutians West
+Alaska,02,AK,Anchorage
+Alaska,02,AK,Bethel
+Alaska,02,AK,Bristol Bay
+Alaska,02,AK,Denali
+Alaska,02,AK,Dillingham
+Alaska,02,AK,Fairbanks North Star
+Alaska,02,AK,Haines
+Alaska,02,AK,Hoonah-Angoon
+Alaska,02,AK,Juneau
+Alaska,02,AK,Kenai Peninsula
+Alaska,02,AK,Ketchikan Gateway
+Alaska,02,AK,Kodiak Island
+Alaska,02,AK,Lake and Peninsula
+Alaska,02,AK,Matanuska-Susitna
+Alaska,02,AK,Nome
+Alaska,02,AK,North Slope
+Alaska,02,AK,Northwest Arctic
+Alaska,02,AK,Petersburg
+Alaska,02,AK,Prince of Wales-Hyder
+Alaska,02,AK,Sitka
+Alaska,02,AK,Skagway
+Alaska,02,AK,Southeast Fairbanks
+Alaska,02,AK,Valdez-Cordova
+Alaska,02,AK,Wade Hampton
+Alaska,02,AK,Wrangell
+Alaska,02,AK,Yakutat
+Alaska,02,AK,Yukon-Koyukuk
+Arizona,04,AZ,Apache
+Arizona,04,AZ,Cochise
+Arizona,04,AZ,Coconino
+Arizona,04,AZ,Gila
+Arizona,04,AZ,Graham
+Arizona,04,AZ,Greenlee
+Arizona,04,AZ,La Paz
+Arizona,04,AZ,Maricopa
+Arizona,04,AZ,Mohave
+Arizona,04,AZ,Navajo
+Arizona,04,AZ,Pima
+Arizona,04,AZ,Pinal
+Arizona,04,AZ,Santa Cruz
+Arizona,04,AZ,Yavapai
+Arizona,04,AZ,Yuma
+Arkansas,05,AR,Arkansas
+Arkansas,05,AR,Ashley
+Arkansas,05,AR,Baxter
+Arkansas,05,AR,Benton
+Arkansas,05,AR,Boone
+Arkansas,05,AR,Bradley
+Arkansas,05,AR,Calhoun
+Arkansas,05,AR,Carroll
+Arkansas,05,AR,Chicot
+Arkansas,05,AR,Clark
+Arkansas,05,AR,Clay
+Arkansas,05,AR,Cleburne
+Arkansas,05,AR,Cleveland
+Arkansas,05,AR,Columbia
+Arkansas,05,AR,Conway
+Arkansas,05,AR,Craighead
+Arkansas,05,AR,Crawford
+Arkansas,05,AR,Crittenden
+Arkansas,05,AR,Cross
+Arkansas,05,AR,Dallas
+Arkansas,05,AR,Desha
+Arkansas,05,AR,Drew
+Arkansas,05,AR,Faulkner
+Arkansas,05,AR,Franklin
+Arkansas,05,AR,Fulton
+Arkansas,05,AR,Garland
+Arkansas,05,AR,Grant
+Arkansas,05,AR,Greene
+Arkansas,05,AR,Hempstead
+Arkansas,05,AR,Hot Spring
+Arkansas,05,AR,Howard
+Arkansas,05,AR,Independence
+Arkansas,05,AR,Izard
+Arkansas,05,AR,Jackson
+Arkansas,05,AR,Jefferson
+Arkansas,05,AR,Johnson
+Arkansas,05,AR,Lafayette
+Arkansas,05,AR,Lawrence
+Arkansas,05,AR,Lee
+Arkansas,05,AR,Lincoln
+Arkansas,05,AR,Little River
+Arkansas,05,AR,Logan
+Arkansas,05,AR,Lonoke
+Arkansas,05,AR,Madison
+Arkansas,05,AR,Marion
+Arkansas,05,AR,Miller
+Arkansas,05,AR,Mississippi
+Arkansas,05,AR,Monroe
+Arkansas,05,AR,Montgomery
+Arkansas,05,AR,Nevada
+Arkansas,05,AR,Newton
+Arkansas,05,AR,Ouachita
+Arkansas,05,AR,Perry
+Arkansas,05,AR,Phillips
+Arkansas,05,AR,Pike
+Arkansas,05,AR,Poinsett
+Arkansas,05,AR,Polk
+Arkansas,05,AR,Pope
+Arkansas,05,AR,Prairie
+Arkansas,05,AR,Pulaski
+Arkansas,05,AR,Randolph
+Arkansas,05,AR,Saline
+Arkansas,05,AR,Scott
+Arkansas,05,AR,Searcy
+Arkansas,05,AR,Sebastian
+Arkansas,05,AR,Sevier
+Arkansas,05,AR,Sharp
+Arkansas,05,AR,St. Francis
+Arkansas,05,AR,Stone
+Arkansas,05,AR,Union
+Arkansas,05,AR,Van Buren
+Arkansas,05,AR,Washington
+Arkansas,05,AR,White
+Arkansas,05,AR,Woodruff
+Arkansas,05,AR,Yell
+California,06,CA,Alameda
+California,06,CA,Alpine
+California,06,CA,Amador
+California,06,CA,Butte
+California,06,CA,Calaveras
+California,06,CA,Colusa
+California,06,CA,Contra Costa
+California,06,CA,Del Norte
+California,06,CA,El Dorado
+California,06,CA,Fresno
+California,06,CA,Glenn
+California,06,CA,Humboldt
+California,06,CA,Imperial
+California,06,CA,Inyo
+California,06,CA,Kern
+California,06,CA,Kings
+California,06,CA,Lake
+California,06,CA,Lassen
+California,06,CA,Los Angeles
+California,06,CA,Madera
+California,06,CA,Marin
+California,06,CA,Mariposa
+California,06,CA,Mendocino
+California,06,CA,Merced
+California,06,CA,Modoc
+California,06,CA,Mono
+California,06,CA,Monterey
+California,06,CA,Napa
+California,06,CA,Nevada
+California,06,CA,Orange
+California,06,CA,Placer
+California,06,CA,Plumas
+California,06,CA,Riverside
+California,06,CA,Sacramento
+California,06,CA,San Benito
+California,06,CA,San Bernardino
+California,06,CA,San Diego
+California,06,CA,San Francisco
+California,06,CA,San Joaquin
+California,06,CA,San Luis Obispo
+California,06,CA,San Mateo
+California,06,CA,Santa Barbara
+California,06,CA,Santa Clara
+California,06,CA,Santa Cruz
+California,06,CA,Shasta
+California,06,CA,Sierra
+California,06,CA,Siskiyou
+California,06,CA,Solano
+California,06,CA,Sonoma
+California,06,CA,Stanislaus
+California,06,CA,Sutter
+California,06,CA,Tehama
+California,06,CA,Trinity
+California,06,CA,Tulare
+California,06,CA,Tuolumne
+California,06,CA,Ventura
+California,06,CA,Yolo
+California,06,CA,Yuba
+Colorado,08,CO,Adams
+Colorado,08,CO,Alamosa
+Colorado,08,CO,Arapahoe
+Colorado,08,CO,Archuleta
+Colorado,08,CO,Baca
+Colorado,08,CO,Bent
+Colorado,08,CO,Boulder
+Colorado,08,CO,Broomfield
+Colorado,08,CO,Chaffee
+Colorado,08,CO,Cheyenne
+Colorado,08,CO,Clear Creek
+Colorado,08,CO,Conejos
+Colorado,08,CO,Costilla
+Colorado,08,CO,Crowley
+Colorado,08,CO,Custer
+Colorado,08,CO,Delta
+Colorado,08,CO,Denver
+Colorado,08,CO,Dolores
+Colorado,08,CO,Douglas
+Colorado,08,CO,Eagle
+Colorado,08,CO,El Paso
+Colorado,08,CO,Elbert
+Colorado,08,CO,Fremont
+Colorado,08,CO,Garfield
+Colorado,08,CO,Gilpin
+Colorado,08,CO,Grand
+Colorado,08,CO,Gunnison
+Colorado,08,CO,Hinsdale
+Colorado,08,CO,Huerfano
+Colorado,08,CO,Jackson
+Colorado,08,CO,Jefferson
+Colorado,08,CO,Kiowa
+Colorado,08,CO,Kit Carson
+Colorado,08,CO,La Plata
+Colorado,08,CO,Lake
+Colorado,08,CO,Larimer
+Colorado,08,CO,Las Animas
+Colorado,08,CO,Lincoln
+Colorado,08,CO,Logan
+Colorado,08,CO,Mesa
+Colorado,08,CO,Mineral
+Colorado,08,CO,Moffat
+Colorado,08,CO,Montezuma
+Colorado,08,CO,Montrose
+Colorado,08,CO,Morgan
+Colorado,08,CO,Otero
+Colorado,08,CO,Ouray
+Colorado,08,CO,Park
+Colorado,08,CO,Phillips
+Colorado,08,CO,Pitkin
+Colorado,08,CO,Prowers
+Colorado,08,CO,Pueblo
+Colorado,08,CO,Rio Blanco
+Colorado,08,CO,Rio Grande
+Colorado,08,CO,Routt
+Colorado,08,CO,Saguache
+Colorado,08,CO,San Juan
+Colorado,08,CO,San Miguel
+Colorado,08,CO,Sedgwick
+Colorado,08,CO,Summit
+Colorado,08,CO,Teller
+Colorado,08,CO,Washington
+Colorado,08,CO,Weld
+Colorado,08,CO,Yuma
+Connecticut,09,CT,Fairfield
+Connecticut,09,CT,Hartford
+Connecticut,09,CT,Litchfield
+Connecticut,09,CT,Middlesex
+Connecticut,09,CT,New Haven
+Connecticut,09,CT,New London
+Connecticut,09,CT,Tolland
+Connecticut,09,CT,Windham
+Delaware,10,DE,Kent
+Delaware,10,DE,New Castle
+Delaware,10,DE,Sussex
+Florida,12,FL,Alachua
+Florida,12,FL,Baker
+Florida,12,FL,Bay
+Florida,12,FL,Bradford
+Florida,12,FL,Brevard
+Florida,12,FL,Broward
+Florida,12,FL,Calhoun
+Florida,12,FL,Charlotte
+Florida,12,FL,Citrus
+Florida,12,FL,Clay
+Florida,12,FL,Collier
+Florida,12,FL,Columbia
+Florida,12,FL,DeSoto
+Florida,12,FL,Dixie
+Florida,12,FL,Duval
+Florida,12,FL,Escambia
+Florida,12,FL,Flagler
+Florida,12,FL,Franklin
+Florida,12,FL,Gadsden
+Florida,12,FL,Gilchrist
+Florida,12,FL,Glades
+Florida,12,FL,Gulf
+Florida,12,FL,Hamilton
+Florida,12,FL,Hardee
+Florida,12,FL,Hendry
+Florida,12,FL,Hernando
+Florida,12,FL,Highlands
+Florida,12,FL,Hillsborough
+Florida,12,FL,Holmes
+Florida,12,FL,Indian River
+Florida,12,FL,Jackson
+Florida,12,FL,Jefferson
+Florida,12,FL,Lafayette
+Florida,12,FL,Lake
+Florida,12,FL,Lee
+Florida,12,FL,Leon
+Florida,12,FL,Levy
+Florida,12,FL,Liberty
+Florida,12,FL,Madison
+Florida,12,FL,Manatee
+Florida,12,FL,Marion
+Florida,12,FL,Martin
+Florida,12,FL,Miami-Dade
+Florida,12,FL,Monroe
+Florida,12,FL,Nassau
+Florida,12,FL,Okaloosa
+Florida,12,FL,Okeechobee
+Florida,12,FL,Orange
+Florida,12,FL,Osceola
+Florida,12,FL,Palm Beach
+Florida,12,FL,Pasco
+Florida,12,FL,Pinellas
+Florida,12,FL,Polk
+Florida,12,FL,Putnam
+Florida,12,FL,Santa Rosa
+Florida,12,FL,Sarasota
+Florida,12,FL,Seminole
+Florida,12,FL,St. Johns
+Florida,12,FL,St. Lucie
+Florida,12,FL,Sumter
+Florida,12,FL,Suwannee
+Florida,12,FL,Taylor
+Florida,12,FL,Union
+Florida,12,FL,Volusia
+Florida,12,FL,Wakulla
+Florida,12,FL,Walton
+Florida,12,FL,Washington
+Georgia,13,GA,Appling
+Georgia,13,GA,Atkinson
+Georgia,13,GA,Bacon
+Georgia,13,GA,Baker
+Georgia,13,GA,Baldwin
+Georgia,13,GA,Banks
+Georgia,13,GA,Barrow
+Georgia,13,GA,Bartow
+Georgia,13,GA,Ben Hill
+Georgia,13,GA,Berrien
+Georgia,13,GA,Bibb
+Georgia,13,GA,Bleckley
+Georgia,13,GA,Brantley
+Georgia,13,GA,Brooks
+Georgia,13,GA,Bryan
+Georgia,13,GA,Bulloch
+Georgia,13,GA,Burke
+Georgia,13,GA,Butts
+Georgia,13,GA,Calhoun
+Georgia,13,GA,Camden
+Georgia,13,GA,Candler
+Georgia,13,GA,Carroll
+Georgia,13,GA,Catoosa
+Georgia,13,GA,Charlton
+Georgia,13,GA,Chatham
+Georgia,13,GA,Chattahoochee
+Georgia,13,GA,Chattooga
+Georgia,13,GA,Cherokee
+Georgia,13,GA,Clarke
+Georgia,13,GA,Clay
+Georgia,13,GA,Clayton
+Georgia,13,GA,Clinch
+Georgia,13,GA,Cobb
+Georgia,13,GA,Coffee
+Georgia,13,GA,Colquitt
+Georgia,13,GA,Columbia
+Georgia,13,GA,Cook
+Georgia,13,GA,Coweta
+Georgia,13,GA,Crawford
+Georgia,13,GA,Crisp
+Georgia,13,GA,Dade
+Georgia,13,GA,Dawson
+Georgia,13,GA,Decatur
+Georgia,13,GA,DeKalb
+Georgia,13,GA,Dodge
+Georgia,13,GA,Dooly
+Georgia,13,GA,Dougherty
+Georgia,13,GA,Douglas
+Georgia,13,GA,Early
+Georgia,13,GA,Echols
+Georgia,13,GA,Effingham
+Georgia,13,GA,Elbert
+Georgia,13,GA,Emanuel
+Georgia,13,GA,Evans
+Georgia,13,GA,Fannin
+Georgia,13,GA,Fayette
+Georgia,13,GA,Floyd
+Georgia,13,GA,Forsyth
+Georgia,13,GA,Franklin
+Georgia,13,GA,Fulton
+Georgia,13,GA,Gilmer
+Georgia,13,GA,Glascock
+Georgia,13,GA,Glynn
+Georgia,13,GA,Gordon
+Georgia,13,GA,Grady
+Georgia,13,GA,Greene
+Georgia,13,GA,Gwinnett
+Georgia,13,GA,Habersham
+Georgia,13,GA,Hall
+Georgia,13,GA,Hancock
+Georgia,13,GA,Haralson
+Georgia,13,GA,Harris
+Georgia,13,GA,Hart
+Georgia,13,GA,Heard
+Georgia,13,GA,Henry
+Georgia,13,GA,Houston
+Georgia,13,GA,Irwin
+Georgia,13,GA,Jackson
+Georgia,13,GA,Jasper
+Georgia,13,GA,Jeff Davis
+Georgia,13,GA,Jefferson
+Georgia,13,GA,Jenkins
+Georgia,13,GA,Johnson
+Georgia,13,GA,Jones
+Georgia,13,GA,Lamar
+Georgia,13,GA,Lanier
+Georgia,13,GA,Laurens
+Georgia,13,GA,Lee
+Georgia,13,GA,Liberty
+Georgia,13,GA,Lincoln
+Georgia,13,GA,Long
+Georgia,13,GA,Lowndes
+Georgia,13,GA,Lumpkin
+Georgia,13,GA,Macon
+Georgia,13,GA,Madison
+Georgia,13,GA,Marion
+Georgia,13,GA,McDuffie
+Georgia,13,GA,McIntosh
+Georgia,13,GA,Meriwether
+Georgia,13,GA,Miller
+Georgia,13,GA,Mitchell
+Georgia,13,GA,Monroe
+Georgia,13,GA,Montgomery
+Georgia,13,GA,Morgan
+Georgia,13,GA,Murray
+Georgia,13,GA,Muscogee
+Georgia,13,GA,Newton
+Georgia,13,GA,Oconee
+Georgia,13,GA,Oglethorpe
+Georgia,13,GA,Paulding
+Georgia,13,GA,Peach
+Georgia,13,GA,Pickens
+Georgia,13,GA,Pierce
+Georgia,13,GA,Pike
+Georgia,13,GA,Polk
+Georgia,13,GA,Pulaski
+Georgia,13,GA,Putnam
+Georgia,13,GA,Quitman
+Georgia,13,GA,Rabun
+Georgia,13,GA,Randolph
+Georgia,13,GA,Richmond
+Georgia,13,GA,Rockdale
+Georgia,13,GA,Schley
+Georgia,13,GA,Screven
+Georgia,13,GA,Seminole
+Georgia,13,GA,Spalding
+Georgia,13,GA,Stephens
+Georgia,13,GA,Stewart
+Georgia,13,GA,Sumter
+Georgia,13,GA,Talbot
+Georgia,13,GA,Taliaferro
+Georgia,13,GA,Tattnall
+Georgia,13,GA,Taylor
+Georgia,13,GA,Telfair
+Georgia,13,GA,Terrell
+Georgia,13,GA,Thomas
+Georgia,13,GA,Tift
+Georgia,13,GA,Toombs
+Georgia,13,GA,Towns
+Georgia,13,GA,Treutlen
+Georgia,13,GA,Troup
+Georgia,13,GA,Turner
+Georgia,13,GA,Twiggs
+Georgia,13,GA,Union
+Georgia,13,GA,Upson
+Georgia,13,GA,Walker
+Georgia,13,GA,Walton
+Georgia,13,GA,Ware
+Georgia,13,GA,Warren
+Georgia,13,GA,Washington
+Georgia,13,GA,Wayne
+Georgia,13,GA,Webster
+Georgia,13,GA,Wheeler
+Georgia,13,GA,White
+Georgia,13,GA,Whitfield
+Georgia,13,GA,Wilcox
+Georgia,13,GA,Wilkes
+Georgia,13,GA,Wilkinson
+Georgia,13,GA,Worth
+Hawaii,15,HI,Hawaii
+Hawaii,15,HI,Honolulu
+Hawaii,15,HI,Kalawao
+Hawaii,15,HI,Kauai
+Hawaii,15,HI,Maui
+Idaho,16,ID,Ada
+Idaho,16,ID,Adams
+Idaho,16,ID,Bannock
+Idaho,16,ID,Bear Lake
+Idaho,16,ID,Benewah
+Idaho,16,ID,Bingham
+Idaho,16,ID,Blaine
+Idaho,16,ID,Boise
+Idaho,16,ID,Bonner
+Idaho,16,ID,Bonneville
+Idaho,16,ID,Boundary
+Idaho,16,ID,Butte
+Idaho,16,ID,Camas
+Idaho,16,ID,Canyon
+Idaho,16,ID,Caribou
+Idaho,16,ID,Cassia
+Idaho,16,ID,Clark
+Idaho,16,ID,Clearwater
+Idaho,16,ID,Custer
+Idaho,16,ID,Elmore
+Idaho,16,ID,Franklin
+Idaho,16,ID,Fremont
+Idaho,16,ID,Gem
+Idaho,16,ID,Gooding
+Idaho,16,ID,Idaho
+Idaho,16,ID,Jefferson
+Idaho,16,ID,Jerome
+Idaho,16,ID,Kootenai
+Idaho,16,ID,Latah
+Idaho,16,ID,Lemhi
+Idaho,16,ID,Lewis
+Idaho,16,ID,Lincoln
+Idaho,16,ID,Madison
+Idaho,16,ID,Minidoka
+Idaho,16,ID,Nez Perce
+Idaho,16,ID,Oneida
+Idaho,16,ID,Owyhee
+Idaho,16,ID,Payette
+Idaho,16,ID,Power
+Idaho,16,ID,Shoshone
+Idaho,16,ID,Teton
+Idaho,16,ID,Twin Falls
+Idaho,16,ID,Valley
+Idaho,16,ID,Washington
+Illinois,17,IL,Adams
+Illinois,17,IL,Alexander
+Illinois,17,IL,Bond
+Illinois,17,IL,Boone
+Illinois,17,IL,Brown
+Illinois,17,IL,Bureau
+Illinois,17,IL,Calhoun
+Illinois,17,IL,Carroll
+Illinois,17,IL,Cass
+Illinois,17,IL,Champaign
+Illinois,17,IL,Christian
+Illinois,17,IL,Clark
+Illinois,17,IL,Clay
+Illinois,17,IL,Clinton
+Illinois,17,IL,Coles
+Illinois,17,IL,Cook
+Illinois,17,IL,Crawford
+Illinois,17,IL,Cumberland
+Illinois,17,IL,De Witt
+Illinois,17,IL,DeKalb
+Illinois,17,IL,Douglas
+Illinois,17,IL,DuPage
+Illinois,17,IL,Edgar
+Illinois,17,IL,Edwards
+Illinois,17,IL,Effingham
+Illinois,17,IL,Fayette
+Illinois,17,IL,Ford
+Illinois,17,IL,Franklin
+Illinois,17,IL,Fulton
+Illinois,17,IL,Gallatin
+Illinois,17,IL,Greene
+Illinois,17,IL,Grundy
+Illinois,17,IL,Hamilton
+Illinois,17,IL,Hancock
+Illinois,17,IL,Hardin
+Illinois,17,IL,Henderson
+Illinois,17,IL,Henry
+Illinois,17,IL,Iroquois
+Illinois,17,IL,Jackson
+Illinois,17,IL,Jasper
+Illinois,17,IL,Jefferson
+Illinois,17,IL,Jersey
+Illinois,17,IL,Jo Daviess
+Illinois,17,IL,Johnson
+Illinois,17,IL,Kane
+Illinois,17,IL,Kankakee
+Illinois,17,IL,Kendall
+Illinois,17,IL,Knox
+Illinois,17,IL,Lake
+Illinois,17,IL,LaSalle
+Illinois,17,IL,Lawrence
+Illinois,17,IL,Lee
+Illinois,17,IL,Livingston
+Illinois,17,IL,Logan
+Illinois,17,IL,Macon
+Illinois,17,IL,Macoupin
+Illinois,17,IL,Madison
+Illinois,17,IL,Marion
+Illinois,17,IL,Marshall
+Illinois,17,IL,Mason
+Illinois,17,IL,Massac
+Illinois,17,IL,McDonough
+Illinois,17,IL,McHenry
+Illinois,17,IL,McLean
+Illinois,17,IL,Menard
+Illinois,17,IL,Mercer
+Illinois,17,IL,Monroe
+Illinois,17,IL,Montgomery
+Illinois,17,IL,Morgan
+Illinois,17,IL,Moultrie
+Illinois,17,IL,Ogle
+Illinois,17,IL,Peoria
+Illinois,17,IL,Perry
+Illinois,17,IL,Piatt
+Illinois,17,IL,Pike
+Illinois,17,IL,Pope
+Illinois,17,IL,Pulaski
+Illinois,17,IL,Putnam
+Illinois,17,IL,Randolph
+Illinois,17,IL,Richland
+Illinois,17,IL,Rock Island
+Illinois,17,IL,Saline
+Illinois,17,IL,Sangamon
+Illinois,17,IL,Schuyler
+Illinois,17,IL,Scott
+Illinois,17,IL,Shelby
+Illinois,17,IL,St. Clair
+Illinois,17,IL,Stark
+Illinois,17,IL,Stephenson
+Illinois,17,IL,Tazewell
+Illinois,17,IL,Union
+Illinois,17,IL,Vermilion
+Illinois,17,IL,Wabash
+Illinois,17,IL,Warren
+Illinois,17,IL,Washington
+Illinois,17,IL,Wayne
+Illinois,17,IL,White
+Illinois,17,IL,Whiteside
+Illinois,17,IL,Will
+Illinois,17,IL,Williamson
+Illinois,17,IL,Winnebago
+Illinois,17,IL,Woodford
+Indiana,18,IN,Adams
+Indiana,18,IN,Allen
+Indiana,18,IN,Bartholomew
+Indiana,18,IN,Benton
+Indiana,18,IN,Blackford
+Indiana,18,IN,Boone
+Indiana,18,IN,Brown
+Indiana,18,IN,Carroll
+Indiana,18,IN,Cass
+Indiana,18,IN,Clark
+Indiana,18,IN,Clay
+Indiana,18,IN,Clinton
+Indiana,18,IN,Crawford
+Indiana,18,IN,Daviess
+Indiana,18,IN,Dearborn
+Indiana,18,IN,Decatur
+Indiana,18,IN,DeKalb
+Indiana,18,IN,Delaware
+Indiana,18,IN,Dubois
+Indiana,18,IN,Elkhart
+Indiana,18,IN,Fayette
+Indiana,18,IN,Floyd
+Indiana,18,IN,Fountain
+Indiana,18,IN,Franklin
+Indiana,18,IN,Fulton
+Indiana,18,IN,Gibson
+Indiana,18,IN,Grant
+Indiana,18,IN,Greene
+Indiana,18,IN,Hamilton
+Indiana,18,IN,Hancock
+Indiana,18,IN,Harrison
+Indiana,18,IN,Hendricks
+Indiana,18,IN,Henry
+Indiana,18,IN,Howard
+Indiana,18,IN,Huntington
+Indiana,18,IN,Jackson
+Indiana,18,IN,Jasper
+Indiana,18,IN,Jay
+Indiana,18,IN,Jefferson
+Indiana,18,IN,Jennings
+Indiana,18,IN,Johnson
+Indiana,18,IN,Knox
+Indiana,18,IN,Kosciusko
+Indiana,18,IN,LaGrange
+Indiana,18,IN,Lake
+Indiana,18,IN,LaPorte
+Indiana,18,IN,Lawrence
+Indiana,18,IN,Madison
+Indiana,18,IN,Marion
+Indiana,18,IN,Marshall
+Indiana,18,IN,Martin
+Indiana,18,IN,Miami
+Indiana,18,IN,Monroe
+Indiana,18,IN,Montgomery
+Indiana,18,IN,Morgan
+Indiana,18,IN,Newton
+Indiana,18,IN,Noble
+Indiana,18,IN,Ohio
+Indiana,18,IN,Orange
+Indiana,18,IN,Owen
+Indiana,18,IN,Parke
+Indiana,18,IN,Perry
+Indiana,18,IN,Pike
+Indiana,18,IN,Porter
+Indiana,18,IN,Posey
+Indiana,18,IN,Pulaski
+Indiana,18,IN,Putnam
+Indiana,18,IN,Randolph
+Indiana,18,IN,Ripley
+Indiana,18,IN,Rush
+Indiana,18,IN,Scott
+Indiana,18,IN,Shelby
+Indiana,18,IN,Spencer
+Indiana,18,IN,St. Joseph
+Indiana,18,IN,Starke
+Indiana,18,IN,Steuben
+Indiana,18,IN,Sullivan
+Indiana,18,IN,Switzerland
+Indiana,18,IN,Tippecanoe
+Indiana,18,IN,Tipton
+Indiana,18,IN,Union
+Indiana,18,IN,Vanderburgh
+Indiana,18,IN,Vermillion
+Indiana,18,IN,Vigo
+Indiana,18,IN,Wabash
+Indiana,18,IN,Warren
+Indiana,18,IN,Warrick
+Indiana,18,IN,Washington
+Indiana,18,IN,Wayne
+Indiana,18,IN,Wells
+Indiana,18,IN,White
+Indiana,18,IN,Whitley
+Iowa,19,IA,Adair
+Iowa,19,IA,Adams
+Iowa,19,IA,Allamakee
+Iowa,19,IA,Appanoose
+Iowa,19,IA,Audubon
+Iowa,19,IA,Benton
+Iowa,19,IA,Black Hawk
+Iowa,19,IA,Boone
+Iowa,19,IA,Bremer
+Iowa,19,IA,Buchanan
+Iowa,19,IA,Buena Vista
+Iowa,19,IA,Butler
+Iowa,19,IA,Calhoun
+Iowa,19,IA,Carroll
+Iowa,19,IA,Cass
+Iowa,19,IA,Cedar
+Iowa,19,IA,Cerro Gordo
+Iowa,19,IA,Cherokee
+Iowa,19,IA,Chickasaw
+Iowa,19,IA,Clarke
+Iowa,19,IA,Clay
+Iowa,19,IA,Clayton
+Iowa,19,IA,Clinton
+Iowa,19,IA,Crawford
+Iowa,19,IA,Dallas
+Iowa,19,IA,Davis
+Iowa,19,IA,Decatur
+Iowa,19,IA,Delaware
+Iowa,19,IA,Des Moines
+Iowa,19,IA,Dickinson
+Iowa,19,IA,Dubuque
+Iowa,19,IA,Emmet
+Iowa,19,IA,Fayette
+Iowa,19,IA,Floyd
+Iowa,19,IA,Franklin
+Iowa,19,IA,Fremont
+Iowa,19,IA,Greene
+Iowa,19,IA,Grundy
+Iowa,19,IA,Guthrie
+Iowa,19,IA,Hamilton
+Iowa,19,IA,Hancock
+Iowa,19,IA,Hardin
+Iowa,19,IA,Harrison
+Iowa,19,IA,Henry
+Iowa,19,IA,Howard
+Iowa,19,IA,Humboldt
+Iowa,19,IA,Ida
+Iowa,19,IA,Iowa
+Iowa,19,IA,Jackson
+Iowa,19,IA,Jasper
+Iowa,19,IA,Jefferson
+Iowa,19,IA,Johnson
+Iowa,19,IA,Jones
+Iowa,19,IA,Keokuk
+Iowa,19,IA,Kossuth
+Iowa,19,IA,Lee
+Iowa,19,IA,Linn
+Iowa,19,IA,Louisa
+Iowa,19,IA,Lucas
+Iowa,19,IA,Lyon
+Iowa,19,IA,Madison
+Iowa,19,IA,Mahaska
+Iowa,19,IA,Marion
+Iowa,19,IA,Marshall
+Iowa,19,IA,Mills
+Iowa,19,IA,Mitchell
+Iowa,19,IA,Monona
+Iowa,19,IA,Monroe
+Iowa,19,IA,Montgomery
+Iowa,19,IA,Muscatine
+Iowa,19,IA,O'Brien
+Iowa,19,IA,Osceola
+Iowa,19,IA,Page
+Iowa,19,IA,Palo Alto
+Iowa,19,IA,Plymouth
+Iowa,19,IA,Pocahontas
+Iowa,19,IA,Polk
+Iowa,19,IA,Pottawattamie
+Iowa,19,IA,Poweshiek
+Iowa,19,IA,Ringgold
+Iowa,19,IA,Sac
+Iowa,19,IA,Scott
+Iowa,19,IA,Shelby
+Iowa,19,IA,Sioux
+Iowa,19,IA,Story
+Iowa,19,IA,Tama
+Iowa,19,IA,Taylor
+Iowa,19,IA,Union
+Iowa,19,IA,Van Buren
+Iowa,19,IA,Wapello
+Iowa,19,IA,Warren
+Iowa,19,IA,Washington
+Iowa,19,IA,Wayne
+Iowa,19,IA,Webster
+Iowa,19,IA,Winnebago
+Iowa,19,IA,Winneshiek
+Iowa,19,IA,Woodbury
+Iowa,19,IA,Worth
+Iowa,19,IA,Wright
+Kansas,20,KS,Allen
+Kansas,20,KS,Anderson
+Kansas,20,KS,Atchison
+Kansas,20,KS,Barber
+Kansas,20,KS,Barton
+Kansas,20,KS,Bourbon
+Kansas,20,KS,Brown
+Kansas,20,KS,Butler
+Kansas,20,KS,Chase
+Kansas,20,KS,Chautauqua
+Kansas,20,KS,Cherokee
+Kansas,20,KS,Cheyenne
+Kansas,20,KS,Clark
+Kansas,20,KS,Clay
+Kansas,20,KS,Cloud
+Kansas,20,KS,Coffey
+Kansas,20,KS,Comanche
+Kansas,20,KS,Cowley
+Kansas,20,KS,Crawford
+Kansas,20,KS,Decatur
+Kansas,20,KS,Dickinson
+Kansas,20,KS,Doniphan
+Kansas,20,KS,Douglas
+Kansas,20,KS,Edwards
+Kansas,20,KS,Elk
+Kansas,20,KS,Ellis
+Kansas,20,KS,Ellsworth
+Kansas,20,KS,Finney
+Kansas,20,KS,Ford
+Kansas,20,KS,Franklin
+Kansas,20,KS,Geary
+Kansas,20,KS,Gove
+Kansas,20,KS,Graham
+Kansas,20,KS,Grant
+Kansas,20,KS,Gray
+Kansas,20,KS,Greeley
+Kansas,20,KS,Greenwood
+Kansas,20,KS,Hamilton
+Kansas,20,KS,Harper
+Kansas,20,KS,Harvey
+Kansas,20,KS,Haskell
+Kansas,20,KS,Hodgeman
+Kansas,20,KS,Jackson
+Kansas,20,KS,Jefferson
+Kansas,20,KS,Jewell
+Kansas,20,KS,Johnson
+Kansas,20,KS,Kearny
+Kansas,20,KS,Kingman
+Kansas,20,KS,Kiowa
+Kansas,20,KS,Labette
+Kansas,20,KS,Lane
+Kansas,20,KS,Leavenworth
+Kansas,20,KS,Lincoln
+Kansas,20,KS,Linn
+Kansas,20,KS,Logan
+Kansas,20,KS,Lyon
+Kansas,20,KS,Marion
+Kansas,20,KS,Marshall
+Kansas,20,KS,McPherson
+Kansas,20,KS,Meade
+Kansas,20,KS,Miami
+Kansas,20,KS,Mitchell
+Kansas,20,KS,Montgomery
+Kansas,20,KS,Morris
+Kansas,20,KS,Morton
+Kansas,20,KS,Nemaha
+Kansas,20,KS,Neosho
+Kansas,20,KS,Ness
+Kansas,20,KS,Norton
+Kansas,20,KS,Osage
+Kansas,20,KS,Osborne
+Kansas,20,KS,Ottawa
+Kansas,20,KS,Pawnee
+Kansas,20,KS,Phillips
+Kansas,20,KS,Pottawatomie
+Kansas,20,KS,Pratt
+Kansas,20,KS,Rawlins
+Kansas,20,KS,Reno
+Kansas,20,KS,Republic
+Kansas,20,KS,Rice
+Kansas,20,KS,Riley
+Kansas,20,KS,Rooks
+Kansas,20,KS,Rush
+Kansas,20,KS,Russell
+Kansas,20,KS,Saline
+Kansas,20,KS,Scott
+Kansas,20,KS,Sedgwick
+Kansas,20,KS,Seward
+Kansas,20,KS,Shawnee
+Kansas,20,KS,Sheridan
+Kansas,20,KS,Sherman
+Kansas,20,KS,Smith
+Kansas,20,KS,Stafford
+Kansas,20,KS,Stanton
+Kansas,20,KS,Stevens
+Kansas,20,KS,Sumner
+Kansas,20,KS,Thomas
+Kansas,20,KS,Trego
+Kansas,20,KS,Wabaunsee
+Kansas,20,KS,Wallace
+Kansas,20,KS,Washington
+Kansas,20,KS,Wichita
+Kansas,20,KS,Wilson
+Kansas,20,KS,Woodson
+Kansas,20,KS,Wyandotte
+Kentucky,21,KY,Adair
+Kentucky,21,KY,Allen
+Kentucky,21,KY,Anderson
+Kentucky,21,KY,Ballard
+Kentucky,21,KY,Barren
+Kentucky,21,KY,Bath
+Kentucky,21,KY,Bell
+Kentucky,21,KY,Boone
+Kentucky,21,KY,Bourbon
+Kentucky,21,KY,Boyd
+Kentucky,21,KY,Boyle
+Kentucky,21,KY,Bracken
+Kentucky,21,KY,Breathitt
+Kentucky,21,KY,Breckinridge
+Kentucky,21,KY,Bullitt
+Kentucky,21,KY,Butler
+Kentucky,21,KY,Caldwell
+Kentucky,21,KY,Calloway
+Kentucky,21,KY,Campbell
+Kentucky,21,KY,Carlisle
+Kentucky,21,KY,Carroll
+Kentucky,21,KY,Carter
+Kentucky,21,KY,Casey
+Kentucky,21,KY,Christian
+Kentucky,21,KY,Clark
+Kentucky,21,KY,Clay
+Kentucky,21,KY,Clinton
+Kentucky,21,KY,Crittenden
+Kentucky,21,KY,Cumberland
+Kentucky,21,KY,Daviess
+Kentucky,21,KY,Edmonson
+Kentucky,21,KY,Elliott
+Kentucky,21,KY,Estill
+Kentucky,21,KY,Fayette
+Kentucky,21,KY,Fleming
+Kentucky,21,KY,Floyd
+Kentucky,21,KY,Franklin
+Kentucky,21,KY,Fulton
+Kentucky,21,KY,Gallatin
+Kentucky,21,KY,Garrard
+Kentucky,21,KY,Grant
+Kentucky,21,KY,Graves
+Kentucky,21,KY,Grayson
+Kentucky,21,KY,Green
+Kentucky,21,KY,Greenup
+Kentucky,21,KY,Hancock
+Kentucky,21,KY,Hardin
+Kentucky,21,KY,Harlan
+Kentucky,21,KY,Harrison
+Kentucky,21,KY,Hart
+Kentucky,21,KY,Henderson
+Kentucky,21,KY,Henry
+Kentucky,21,KY,Hickman
+Kentucky,21,KY,Hopkins
+Kentucky,21,KY,Jackson
+Kentucky,21,KY,Jefferson
+Kentucky,21,KY,Jessamine
+Kentucky,21,KY,Johnson
+Kentucky,21,KY,Kenton
+Kentucky,21,KY,Knott
+Kentucky,21,KY,Knox
+Kentucky,21,KY,Larue
+Kentucky,21,KY,Laurel
+Kentucky,21,KY,Lawrence
+Kentucky,21,KY,Lee
+Kentucky,21,KY,Leslie
+Kentucky,21,KY,Letcher
+Kentucky,21,KY,Lewis
+Kentucky,21,KY,Lincoln
+Kentucky,21,KY,Livingston
+Kentucky,21,KY,Logan
+Kentucky,21,KY,Lyon
+Kentucky,21,KY,Madison
+Kentucky,21,KY,Magoffin
+Kentucky,21,KY,Marion
+Kentucky,21,KY,Marshall
+Kentucky,21,KY,Martin
+Kentucky,21,KY,Mason
+Kentucky,21,KY,McCracken
+Kentucky,21,KY,McCreary
+Kentucky,21,KY,McLean
+Kentucky,21,KY,Meade
+Kentucky,21,KY,Menifee
+Kentucky,21,KY,Mercer
+Kentucky,21,KY,Metcalfe
+Kentucky,21,KY,Monroe
+Kentucky,21,KY,Montgomery
+Kentucky,21,KY,Morgan
+Kentucky,21,KY,Muhlenberg
+Kentucky,21,KY,Nelson
+Kentucky,21,KY,Nicholas
+Kentucky,21,KY,Ohio
+Kentucky,21,KY,Oldham
+Kentucky,21,KY,Owen
+Kentucky,21,KY,Owsley
+Kentucky,21,KY,Pendleton
+Kentucky,21,KY,Perry
+Kentucky,21,KY,Pike
+Kentucky,21,KY,Powell
+Kentucky,21,KY,Pulaski
+Kentucky,21,KY,Robertson
+Kentucky,21,KY,Rockcastle
+Kentucky,21,KY,Rowan
+Kentucky,21,KY,Russell
+Kentucky,21,KY,Scott
+Kentucky,21,KY,Shelby
+Kentucky,21,KY,Simpson
+Kentucky,21,KY,Spencer
+Kentucky,21,KY,Taylor
+Kentucky,21,KY,Todd
+Kentucky,21,KY,Trigg
+Kentucky,21,KY,Trimble
+Kentucky,21,KY,Union
+Kentucky,21,KY,Warren
+Kentucky,21,KY,Washington
+Kentucky,21,KY,Wayne
+Kentucky,21,KY,Webster
+Kentucky,21,KY,Whitley
+Kentucky,21,KY,Wolfe
+Kentucky,21,KY,Woodford
+Louisiana,22,LA,Acadia
+Louisiana,22,LA,Allen
+Louisiana,22,LA,Ascension
+Louisiana,22,LA,Assumption
+Louisiana,22,LA,Avoyelles
+Louisiana,22,LA,Beauregard
+Louisiana,22,LA,Bienville
+Louisiana,22,LA,Bossier
+Louisiana,22,LA,Caddo
+Louisiana,22,LA,Calcasieu
+Louisiana,22,LA,Caldwell
+Louisiana,22,LA,Cameron
+Louisiana,22,LA,Catahoula
+Louisiana,22,LA,Claiborne
+Louisiana,22,LA,Concordia
+Louisiana,22,LA,De Soto
+Louisiana,22,LA,East Baton Rouge
+Louisiana,22,LA,East Carroll
+Louisiana,22,LA,East Feliciana
+Louisiana,22,LA,Evangeline
+Louisiana,22,LA,Franklin
+Louisiana,22,LA,Grant
+Louisiana,22,LA,Iberia
+Louisiana,22,LA,Iberville
+Louisiana,22,LA,Jackson
+Louisiana,22,LA,Jefferson
+Louisiana,22,LA,Jefferson Davis
+Louisiana,22,LA,La Salle
+Louisiana,22,LA,Lafayette
+Louisiana,22,LA,Lafourche
+Louisiana,22,LA,Lincoln
+Louisiana,22,LA,Livingston
+Louisiana,22,LA,Madison
+Louisiana,22,LA,Morehouse
+Louisiana,22,LA,Natchitoches
+Louisiana,22,LA,Orleans
+Louisiana,22,LA,Ouachita
+Louisiana,22,LA,Plaquemines
+Louisiana,22,LA,Pointe Coupee
+Louisiana,22,LA,Rapides
+Louisiana,22,LA,Red River
+Louisiana,22,LA,Richland
+Louisiana,22,LA,Sabine
+Louisiana,22,LA,St. Bernard
+Louisiana,22,LA,St. Charles
+Louisiana,22,LA,St. Helena
+Louisiana,22,LA,St. James
+Louisiana,22,LA,St. John the Baptist
+Louisiana,22,LA,St. Landry
+Louisiana,22,LA,St. Martin
+Louisiana,22,LA,St. Mary
+Louisiana,22,LA,St. Tammany
+Louisiana,22,LA,Tangipahoa
+Louisiana,22,LA,Tensas
+Louisiana,22,LA,Terrebonne
+Louisiana,22,LA,Union
+Louisiana,22,LA,Vermilion
+Louisiana,22,LA,Vernon
+Louisiana,22,LA,Washington
+Louisiana,22,LA,Webster
+Louisiana,22,LA,West Baton Rouge
+Louisiana,22,LA,West Carroll
+Louisiana,22,LA,West Feliciana
+Louisiana,22,LA,Winn
+Maine,23,ME,Androscoggin
+Maine,23,ME,Aroostook
+Maine,23,ME,Cumberland
+Maine,23,ME,Franklin
+Maine,23,ME,Hancock
+Maine,23,ME,Kennebec
+Maine,23,ME,Knox
+Maine,23,ME,Lincoln
+Maine,23,ME,Oxford
+Maine,23,ME,Penobscot
+Maine,23,ME,Piscataquis
+Maine,23,ME,Sagadahoc
+Maine,23,ME,Somerset
+Maine,23,ME,Waldo
+Maine,23,ME,Washington
+Maine,23,ME,York
+Maryland,24,MD,Allegany
+Maryland,24,MD,Anne Arundel
+Maryland,24,MD,Baltimore
+Maryland,24,MD,Baltimore city
+Maryland,24,MD,Calvert
+Maryland,24,MD,Caroline
+Maryland,24,MD,Carroll
+Maryland,24,MD,Cecil
+Maryland,24,MD,Charles
+Maryland,24,MD,Dorchester
+Maryland,24,MD,Frederick
+Maryland,24,MD,Garrett
+Maryland,24,MD,Harford
+Maryland,24,MD,Howard
+Maryland,24,MD,Kent
+Maryland,24,MD,Montgomery
+Maryland,24,MD,Prince George's
+Maryland,24,MD,Queen Anne's
+Maryland,24,MD,Somerset
+Maryland,24,MD,St. Mary's
+Maryland,24,MD,Talbot
+Maryland,24,MD,Washington
+Maryland,24,MD,Wicomico
+Maryland,24,MD,Worcester
+Massachusetts,25,MA,Barnstable
+Massachusetts,25,MA,Berkshire
+Massachusetts,25,MA,Bristol
+Massachusetts,25,MA,Dukes
+Massachusetts,25,MA,Essex
+Massachusetts,25,MA,Franklin
+Massachusetts,25,MA,Hampden
+Massachusetts,25,MA,Hampshire
+Massachusetts,25,MA,Middlesex
+Massachusetts,25,MA,Nantucket
+Massachusetts,25,MA,Norfolk
+Massachusetts,25,MA,Plymouth
+Massachusetts,25,MA,Suffolk
+Massachusetts,25,MA,Worcester
+Michigan,26,MI,Alcona
+Michigan,26,MI,Alger
+Michigan,26,MI,Allegan
+Michigan,26,MI,Alpena
+Michigan,26,MI,Antrim
+Michigan,26,MI,Arenac
+Michigan,26,MI,Baraga
+Michigan,26,MI,Barry
+Michigan,26,MI,Bay
+Michigan,26,MI,Benzie
+Michigan,26,MI,Berrien
+Michigan,26,MI,Branch
+Michigan,26,MI,Calhoun
+Michigan,26,MI,Cass
+Michigan,26,MI,Charlevoix
+Michigan,26,MI,Cheboygan
+Michigan,26,MI,Chippewa
+Michigan,26,MI,Clare
+Michigan,26,MI,Clinton
+Michigan,26,MI,Crawford
+Michigan,26,MI,Delta
+Michigan,26,MI,Dickinson
+Michigan,26,MI,Eaton
+Michigan,26,MI,Emmet
+Michigan,26,MI,Genesee
+Michigan,26,MI,Gladwin
+Michigan,26,MI,Gogebic
+Michigan,26,MI,Grand Traverse
+Michigan,26,MI,Gratiot
+Michigan,26,MI,Hillsdale
+Michigan,26,MI,Houghton
+Michigan,26,MI,Huron
+Michigan,26,MI,Ingham
+Michigan,26,MI,Ionia
+Michigan,26,MI,Iosco
+Michigan,26,MI,Iron
+Michigan,26,MI,Isabella
+Michigan,26,MI,Jackson
+Michigan,26,MI,Kalamazoo
+Michigan,26,MI,Kalkaska
+Michigan,26,MI,Kent
+Michigan,26,MI,Keweenaw
+Michigan,26,MI,Lake
+Michigan,26,MI,Lapeer
+Michigan,26,MI,Leelanau
+Michigan,26,MI,Lenawee
+Michigan,26,MI,Livingston
+Michigan,26,MI,Luce
+Michigan,26,MI,Mackinac
+Michigan,26,MI,Macomb
+Michigan,26,MI,Manistee
+Michigan,26,MI,Marquette
+Michigan,26,MI,Mason
+Michigan,26,MI,Mecosta
+Michigan,26,MI,Menominee
+Michigan,26,MI,Midland
+Michigan,26,MI,Missaukee
+Michigan,26,MI,Monroe
+Michigan,26,MI,Montcalm
+Michigan,26,MI,Montmorency
+Michigan,26,MI,Muskegon
+Michigan,26,MI,Newaygo
+Michigan,26,MI,Oakland
+Michigan,26,MI,Oceana
+Michigan,26,MI,Ogemaw
+Michigan,26,MI,Ontonagon
+Michigan,26,MI,Osceola
+Michigan,26,MI,Oscoda
+Michigan,26,MI,Otsego
+Michigan,26,MI,Ottawa
+Michigan,26,MI,Presque Isle
+Michigan,26,MI,Roscommon
+Michigan,26,MI,Saginaw
+Michigan,26,MI,Sanilac
+Michigan,26,MI,Schoolcraft
+Michigan,26,MI,Shiawassee
+Michigan,26,MI,St. Clair
+Michigan,26,MI,St. Joseph
+Michigan,26,MI,Tuscola
+Michigan,26,MI,Van Buren
+Michigan,26,MI,Washtenaw
+Michigan,26,MI,Wayne
+Michigan,26,MI,Wexford
+Minnesota,27,MN,Aitkin
+Minnesota,27,MN,Anoka
+Minnesota,27,MN,Becker
+Minnesota,27,MN,Beltrami
+Minnesota,27,MN,Benton
+Minnesota,27,MN,Big Stone
+Minnesota,27,MN,Blue Earth
+Minnesota,27,MN,Brown
+Minnesota,27,MN,Carlton
+Minnesota,27,MN,Carver
+Minnesota,27,MN,Cass
+Minnesota,27,MN,Chippewa
+Minnesota,27,MN,Chisago
+Minnesota,27,MN,Clay
+Minnesota,27,MN,Clearwater
+Minnesota,27,MN,Cook
+Minnesota,27,MN,Cottonwood
+Minnesota,27,MN,Crow Wing
+Minnesota,27,MN,Dakota
+Minnesota,27,MN,Dodge
+Minnesota,27,MN,Douglas
+Minnesota,27,MN,Faribault
+Minnesota,27,MN,Fillmore
+Minnesota,27,MN,Freeborn
+Minnesota,27,MN,Goodhue
+Minnesota,27,MN,Grant
+Minnesota,27,MN,Hennepin
+Minnesota,27,MN,Houston
+Minnesota,27,MN,Hubbard
+Minnesota,27,MN,Isanti
+Minnesota,27,MN,Itasca
+Minnesota,27,MN,Jackson
+Minnesota,27,MN,Kanabec
+Minnesota,27,MN,Kandiyohi
+Minnesota,27,MN,Kittson
+Minnesota,27,MN,Koochiching
+Minnesota,27,MN,Lac qui Parle
+Minnesota,27,MN,Lake
+Minnesota,27,MN,Lake of the Woods
+Minnesota,27,MN,Le Sueur
+Minnesota,27,MN,Lincoln
+Minnesota,27,MN,Lyon
+Minnesota,27,MN,Mahnomen
+Minnesota,27,MN,Marshall
+Minnesota,27,MN,Martin
+Minnesota,27,MN,McLeod
+Minnesota,27,MN,Meeker
+Minnesota,27,MN,Mille Lacs
+Minnesota,27,MN,Morrison
+Minnesota,27,MN,Mower
+Minnesota,27,MN,Murray
+Minnesota,27,MN,Nicollet
+Minnesota,27,MN,Nobles
+Minnesota,27,MN,Norman
+Minnesota,27,MN,Olmsted
+Minnesota,27,MN,Otter Tail
+Minnesota,27,MN,Pennington
+Minnesota,27,MN,Pine
+Minnesota,27,MN,Pipestone
+Minnesota,27,MN,Polk
+Minnesota,27,MN,Pope
+Minnesota,27,MN,Ramsey
+Minnesota,27,MN,Red Lake
+Minnesota,27,MN,Redwood
+Minnesota,27,MN,Renville
+Minnesota,27,MN,Rice
+Minnesota,27,MN,Rock
+Minnesota,27,MN,Roseau
+Minnesota,27,MN,Scott
+Minnesota,27,MN,Sherburne
+Minnesota,27,MN,Sibley
+Minnesota,27,MN,St. Louis
+Minnesota,27,MN,Stearns
+Minnesota,27,MN,Steele
+Minnesota,27,MN,Stevens
+Minnesota,27,MN,Swift
+Minnesota,27,MN,Todd
+Minnesota,27,MN,Traverse
+Minnesota,27,MN,Wabasha
+Minnesota,27,MN,Wadena
+Minnesota,27,MN,Waseca
+Minnesota,27,MN,Washington
+Minnesota,27,MN,Watonwan
+Minnesota,27,MN,Wilkin
+Minnesota,27,MN,Winona
+Minnesota,27,MN,Wright
+Minnesota,27,MN,Yellow Medicine
+Mississippi,28,MS,Adams
+Mississippi,28,MS,Alcorn
+Mississippi,28,MS,Amite
+Mississippi,28,MS,Attala
+Mississippi,28,MS,Benton
+Mississippi,28,MS,Bolivar
+Mississippi,28,MS,Calhoun
+Mississippi,28,MS,Carroll
+Mississippi,28,MS,Chickasaw
+Mississippi,28,MS,Choctaw
+Mississippi,28,MS,Claiborne
+Mississippi,28,MS,Clarke
+Mississippi,28,MS,Clay
+Mississippi,28,MS,Coahoma
+Mississippi,28,MS,Copiah
+Mississippi,28,MS,Covington
+Mississippi,28,MS,DeSoto
+Mississippi,28,MS,Forrest
+Mississippi,28,MS,Franklin
+Mississippi,28,MS,George
+Mississippi,28,MS,Greene
+Mississippi,28,MS,Grenada
+Mississippi,28,MS,Hancock
+Mississippi,28,MS,Harrison
+Mississippi,28,MS,Hinds
+Mississippi,28,MS,Holmes
+Mississippi,28,MS,Humphreys
+Mississippi,28,MS,Issaquena
+Mississippi,28,MS,Itawamba
+Mississippi,28,MS,Jackson
+Mississippi,28,MS,Jasper
+Mississippi,28,MS,Jefferson
+Mississippi,28,MS,Jefferson Davis
+Mississippi,28,MS,Jones
+Mississippi,28,MS,Kemper
+Mississippi,28,MS,Lafayette
+Mississippi,28,MS,Lamar
+Mississippi,28,MS,Lauderdale
+Mississippi,28,MS,Lawrence
+Mississippi,28,MS,Leake
+Mississippi,28,MS,Lee
+Mississippi,28,MS,Leflore
+Mississippi,28,MS,Lincoln
+Mississippi,28,MS,Lowndes
+Mississippi,28,MS,Madison
+Mississippi,28,MS,Marion
+Mississippi,28,MS,Marshall
+Mississippi,28,MS,Monroe
+Mississippi,28,MS,Montgomery
+Mississippi,28,MS,Neshoba
+Mississippi,28,MS,Newton
+Mississippi,28,MS,Noxubee
+Mississippi,28,MS,Oktibbeha
+Mississippi,28,MS,Panola
+Mississippi,28,MS,Pearl River
+Mississippi,28,MS,Perry
+Mississippi,28,MS,Pike
+Mississippi,28,MS,Pontotoc
+Mississippi,28,MS,Prentiss
+Mississippi,28,MS,Quitman
+Mississippi,28,MS,Rankin
+Mississippi,28,MS,Scott
+Mississippi,28,MS,Sharkey
+Mississippi,28,MS,Simpson
+Mississippi,28,MS,Smith
+Mississippi,28,MS,Stone
+Mississippi,28,MS,Sunflower
+Mississippi,28,MS,Tallahatchie
+Mississippi,28,MS,Tate
+Mississippi,28,MS,Tippah
+Mississippi,28,MS,Tishomingo
+Mississippi,28,MS,Tunica
+Mississippi,28,MS,Union
+Mississippi,28,MS,Walthall
+Mississippi,28,MS,Warren
+Mississippi,28,MS,Washington
+Mississippi,28,MS,Wayne
+Mississippi,28,MS,Webster
+Mississippi,28,MS,Wilkinson
+Mississippi,28,MS,Winston
+Mississippi,28,MS,Yalobusha
+Mississippi,28,MS,Yazoo
+Missouri,29,MO,Adair
+Missouri,29,MO,Andrew
+Missouri,29,MO,Atchison
+Missouri,29,MO,Audrain
+Missouri,29,MO,Barry
+Missouri,29,MO,Barton
+Missouri,29,MO,Bates
+Missouri,29,MO,Benton
+Missouri,29,MO,Bollinger
+Missouri,29,MO,Boone
+Missouri,29,MO,Buchanan
+Missouri,29,MO,Butler
+Missouri,29,MO,Caldwell
+Missouri,29,MO,Callaway
+Missouri,29,MO,Camden
+Missouri,29,MO,Cape Girardeau
+Missouri,29,MO,Carroll
+Missouri,29,MO,Carter
+Missouri,29,MO,Cass
+Missouri,29,MO,Cedar
+Missouri,29,MO,Chariton
+Missouri,29,MO,Christian
+Missouri,29,MO,Clark
+Missouri,29,MO,Clay
+Missouri,29,MO,Clinton
+Missouri,29,MO,Cole
+Missouri,29,MO,Cooper
+Missouri,29,MO,Crawford
+Missouri,29,MO,Dade
+Missouri,29,MO,Dallas
+Missouri,29,MO,Daviess
+Missouri,29,MO,DeKalb
+Missouri,29,MO,Dent
+Missouri,29,MO,Douglas
+Missouri,29,MO,Dunklin
+Missouri,29,MO,Franklin
+Missouri,29,MO,Gasconade
+Missouri,29,MO,Gentry
+Missouri,29,MO,Greene
+Missouri,29,MO,Grundy
+Missouri,29,MO,Harrison
+Missouri,29,MO,Henry
+Missouri,29,MO,Hickory
+Missouri,29,MO,Holt
+Missouri,29,MO,Howard
+Missouri,29,MO,Howell
+Missouri,29,MO,Iron
+Missouri,29,MO,Jackson
+Missouri,29,MO,Jasper
+Missouri,29,MO,Jefferson
+Missouri,29,MO,Johnson
+Missouri,29,MO,Knox
+Missouri,29,MO,Laclede
+Missouri,29,MO,Lafayette
+Missouri,29,MO,Lawrence
+Missouri,29,MO,Lewis
+Missouri,29,MO,Lincoln
+Missouri,29,MO,Linn
+Missouri,29,MO,Livingston
+Missouri,29,MO,Macon
+Missouri,29,MO,Madison
+Missouri,29,MO,Maries
+Missouri,29,MO,Marion
+Missouri,29,MO,McDonald
+Missouri,29,MO,Mercer
+Missouri,29,MO,Miller
+Missouri,29,MO,Mississippi
+Missouri,29,MO,Moniteau
+Missouri,29,MO,Monroe
+Missouri,29,MO,Montgomery
+Missouri,29,MO,Morgan
+Missouri,29,MO,New Madrid
+Missouri,29,MO,Newton
+Missouri,29,MO,Nodaway
+Missouri,29,MO,Oregon
+Missouri,29,MO,Osage
+Missouri,29,MO,Ozark
+Missouri,29,MO,Pemiscot
+Missouri,29,MO,Perry
+Missouri,29,MO,Pettis
+Missouri,29,MO,Phelps
+Missouri,29,MO,Pike
+Missouri,29,MO,Platte
+Missouri,29,MO,Polk
+Missouri,29,MO,Pulaski
+Missouri,29,MO,Putnam
+Missouri,29,MO,Ralls
+Missouri,29,MO,Randolph
+Missouri,29,MO,Ray
+Missouri,29,MO,Reynolds
+Missouri,29,MO,Ripley
+Missouri,29,MO,Saline
+Missouri,29,MO,Schuyler
+Missouri,29,MO,Scotland
+Missouri,29,MO,Scott
+Missouri,29,MO,Shannon
+Missouri,29,MO,Shelby
+Missouri,29,MO,St. Charles
+Missouri,29,MO,St. Clair
+Missouri,29,MO,St. Francois
+Missouri,29,MO,St. Louis
+Missouri,29,MO,St. Louis city
+Missouri,29,MO,Ste. Genevieve
+Missouri,29,MO,Stoddard
+Missouri,29,MO,Stone
+Missouri,29,MO,Sullivan
+Missouri,29,MO,Taney
+Missouri,29,MO,Texas
+Missouri,29,MO,Vernon
+Missouri,29,MO,Warren
+Missouri,29,MO,Washington
+Missouri,29,MO,Wayne
+Missouri,29,MO,Webster
+Missouri,29,MO,Worth
+Missouri,29,MO,Wright
+Montana,30,MT,Beaverhead
+Montana,30,MT,Big Horn
+Montana,30,MT,Blaine
+Montana,30,MT,Broadwater
+Montana,30,MT,Carbon
+Montana,30,MT,Carter
+Montana,30,MT,Cascade
+Montana,30,MT,Chouteau
+Montana,30,MT,Custer
+Montana,30,MT,Daniels
+Montana,30,MT,Dawson
+Montana,30,MT,Deer Lodge
+Montana,30,MT,Fallon
+Montana,30,MT,Fergus
+Montana,30,MT,Flathead
+Montana,30,MT,Gallatin
+Montana,30,MT,Garfield
+Montana,30,MT,Glacier
+Montana,30,MT,Golden Valley
+Montana,30,MT,Granite
+Montana,30,MT,Hill
+Montana,30,MT,Jefferson
+Montana,30,MT,Judith Basin
+Montana,30,MT,Lake
+Montana,30,MT,Lewis and Clark
+Montana,30,MT,Liberty
+Montana,30,MT,Lincoln
+Montana,30,MT,Madison
+Montana,30,MT,McCone
+Montana,30,MT,Meagher
+Montana,30,MT,Mineral
+Montana,30,MT,Missoula
+Montana,30,MT,Musselshell
+Montana,30,MT,Park
+Montana,30,MT,Petroleum
+Montana,30,MT,Phillips
+Montana,30,MT,Pondera
+Montana,30,MT,Powder River
+Montana,30,MT,Powell
+Montana,30,MT,Prairie
+Montana,30,MT,Ravalli
+Montana,30,MT,Richland
+Montana,30,MT,Roosevelt
+Montana,30,MT,Rosebud
+Montana,30,MT,Sanders
+Montana,30,MT,Sheridan
+Montana,30,MT,Silver Bow
+Montana,30,MT,Stillwater
+Montana,30,MT,Sweet Grass
+Montana,30,MT,Teton
+Montana,30,MT,Toole
+Montana,30,MT,Treasure
+Montana,30,MT,Valley
+Montana,30,MT,Wheatland
+Montana,30,MT,Wibaux
+Montana,30,MT,Yellowstone
+Montana,30,MT,Yellowstone National Park
+Nebraska,31,NE,Adams
+Nebraska,31,NE,Antelope
+Nebraska,31,NE,Arthur
+Nebraska,31,NE,Banner
+Nebraska,31,NE,Blaine
+Nebraska,31,NE,Boone
+Nebraska,31,NE,Box Butte
+Nebraska,31,NE,Boyd
+Nebraska,31,NE,Brown
+Nebraska,31,NE,Buffalo
+Nebraska,31,NE,Burt
+Nebraska,31,NE,Butler
+Nebraska,31,NE,Cass
+Nebraska,31,NE,Cedar
+Nebraska,31,NE,Chase
+Nebraska,31,NE,Cherry
+Nebraska,31,NE,Cheyenne
+Nebraska,31,NE,Clay
+Nebraska,31,NE,Colfax
+Nebraska,31,NE,Cuming
+Nebraska,31,NE,Custer
+Nebraska,31,NE,Dakota
+Nebraska,31,NE,Dawes
+Nebraska,31,NE,Dawson
+Nebraska,31,NE,Deuel
+Nebraska,31,NE,Dixon
+Nebraska,31,NE,Dodge
+Nebraska,31,NE,Douglas
+Nebraska,31,NE,Dundy
+Nebraska,31,NE,Fillmore
+Nebraska,31,NE,Franklin
+Nebraska,31,NE,Frontier
+Nebraska,31,NE,Furnas
+Nebraska,31,NE,Gage
+Nebraska,31,NE,Garden
+Nebraska,31,NE,Garfield
+Nebraska,31,NE,Gosper
+Nebraska,31,NE,Grant
+Nebraska,31,NE,Greeley
+Nebraska,31,NE,Hall
+Nebraska,31,NE,Hamilton
+Nebraska,31,NE,Harlan
+Nebraska,31,NE,Hayes
+Nebraska,31,NE,Hitchcock
+Nebraska,31,NE,Holt
+Nebraska,31,NE,Hooker
+Nebraska,31,NE,Howard
+Nebraska,31,NE,Jefferson
+Nebraska,31,NE,Johnson
+Nebraska,31,NE,Kearney
+Nebraska,31,NE,Keith
+Nebraska,31,NE,Keya Paha
+Nebraska,31,NE,Kimball
+Nebraska,31,NE,Knox
+Nebraska,31,NE,Lancaster
+Nebraska,31,NE,Lincoln
+Nebraska,31,NE,Logan
+Nebraska,31,NE,Loup
+Nebraska,31,NE,Madison
+Nebraska,31,NE,McPherson
+Nebraska,31,NE,Merrick
+Nebraska,31,NE,Morrill
+Nebraska,31,NE,Nance
+Nebraska,31,NE,Nemaha
+Nebraska,31,NE,Nuckolls
+Nebraska,31,NE,Otoe
+Nebraska,31,NE,Pawnee
+Nebraska,31,NE,Perkins
+Nebraska,31,NE,Phelps
+Nebraska,31,NE,Pierce
+Nebraska,31,NE,Platte
+Nebraska,31,NE,Polk
+Nebraska,31,NE,Red Willow
+Nebraska,31,NE,Richardson
+Nebraska,31,NE,Rock
+Nebraska,31,NE,Saline
+Nebraska,31,NE,Sarpy
+Nebraska,31,NE,Saunders
+Nebraska,31,NE,Scotts Bluff
+Nebraska,31,NE,Seward
+Nebraska,31,NE,Sheridan
+Nebraska,31,NE,Sherman
+Nebraska,31,NE,Sioux
+Nebraska,31,NE,Stanton
+Nebraska,31,NE,Thayer
+Nebraska,31,NE,Thomas
+Nebraska,31,NE,Thurston
+Nebraska,31,NE,Valley
+Nebraska,31,NE,Washington
+Nebraska,31,NE,Wayne
+Nebraska,31,NE,Webster
+Nebraska,31,NE,Wheeler
+Nebraska,31,NE,York
+Nevada,32,NV,Carson City city
+Nevada,32,NV,Churchill
+Nevada,32,NV,Clark
+Nevada,32,NV,Douglas
+Nevada,32,NV,Elko
+Nevada,32,NV,Esmeralda
+Nevada,32,NV,Eureka
+Nevada,32,NV,Humboldt
+Nevada,32,NV,Lander
+Nevada,32,NV,Lincoln
+Nevada,32,NV,Lyon
+Nevada,32,NV,Mineral
+Nevada,32,NV,Nye
+Nevada,32,NV,Pershing
+Nevada,32,NV,Storey
+Nevada,32,NV,Washoe
+Nevada,32,NV,White Pine
+New Hampshire,33,NH,Belknap
+New Hampshire,33,NH,Carroll
+New Hampshire,33,NH,Cheshire
+New Hampshire,33,NH,Coos
+New Hampshire,33,NH,Grafton
+New Hampshire,33,NH,Hillsborough
+New Hampshire,33,NH,Merrimack
+New Hampshire,33,NH,Rockingham
+New Hampshire,33,NH,Strafford
+New Hampshire,33,NH,Sullivan
+New Jersey,34,NJ,Atlantic
+New Jersey,34,NJ,Bergen
+New Jersey,34,NJ,Burlington
+New Jersey,34,NJ,Camden
+New Jersey,34,NJ,Cape May
+New Jersey,34,NJ,Cumberland
+New Jersey,34,NJ,Essex
+New Jersey,34,NJ,Gloucester
+New Jersey,34,NJ,Hudson
+New Jersey,34,NJ,Hunterdon
+New Jersey,34,NJ,Mercer
+New Jersey,34,NJ,Middlesex
+New Jersey,34,NJ,Monmouth
+New Jersey,34,NJ,Morris
+New Jersey,34,NJ,Ocean
+New Jersey,34,NJ,Passaic
+New Jersey,34,NJ,Salem
+New Jersey,34,NJ,Somerset
+New Jersey,34,NJ,Sussex
+New Jersey,34,NJ,Union
+New Jersey,34,NJ,Warren
+New Mexico,35,NM,Bernalillo
+New Mexico,35,NM,Catron
+New Mexico,35,NM,Chaves
+New Mexico,35,NM,Cibola
+New Mexico,35,NM,Colfax
+New Mexico,35,NM,Curry
+New Mexico,35,NM,De Baca
+New Mexico,35,NM,Dona Ana
+New Mexico,35,NM,Eddy
+New Mexico,35,NM,Grant
+New Mexico,35,NM,Guadalupe
+New Mexico,35,NM,Harding
+New Mexico,35,NM,Hidalgo
+New Mexico,35,NM,Lea
+New Mexico,35,NM,Lincoln
+New Mexico,35,NM,Los Alamos
+New Mexico,35,NM,Luna
+New Mexico,35,NM,McKinley
+New Mexico,35,NM,Mora
+New Mexico,35,NM,Otero
+New Mexico,35,NM,Quay
+New Mexico,35,NM,Rio Arriba
+New Mexico,35,NM,Roosevelt
+New Mexico,35,NM,San Juan
+New Mexico,35,NM,San Miguel
+New Mexico,35,NM,Sandoval
+New Mexico,35,NM,Santa Fe
+New Mexico,35,NM,Sierra
+New Mexico,35,NM,Socorro
+New Mexico,35,NM,Taos
+New Mexico,35,NM,Torrance
+New Mexico,35,NM,Union
+New Mexico,35,NM,Valencia
+New York,36,NY,Albany
+New York,36,NY,Allegany
+New York,36,NY,Bronx
+New York,36,NY,Broome
+New York,36,NY,Cattaraugus
+New York,36,NY,Cayuga
+New York,36,NY,Chautauqua
+New York,36,NY,Chemung
+New York,36,NY,Chenango
+New York,36,NY,Clinton
+New York,36,NY,Columbia
+New York,36,NY,Cortland
+New York,36,NY,Delaware
+New York,36,NY,Dutchess
+New York,36,NY,Erie
+New York,36,NY,Essex
+New York,36,NY,Franklin
+New York,36,NY,Fulton
+New York,36,NY,Genesee
+New York,36,NY,Greene
+New York,36,NY,Hamilton
+New York,36,NY,Herkimer
+New York,36,NY,Jefferson
+New York,36,NY,Kings
+New York,36,NY,Lewis
+New York,36,NY,Livingston
+New York,36,NY,Madison
+New York,36,NY,Monroe
+New York,36,NY,Montgomery
+New York,36,NY,Nassau
+New York,36,NY,New York
+New York,36,NY,Niagara
+New York,36,NY,Oneida
+New York,36,NY,Onondaga
+New York,36,NY,Ontario
+New York,36,NY,Orange
+New York,36,NY,Orleans
+New York,36,NY,Oswego
+New York,36,NY,Otsego
+New York,36,NY,Putnam
+New York,36,NY,Queens
+New York,36,NY,Rensselaer
+New York,36,NY,Richmond
+New York,36,NY,Rockland
+New York,36,NY,Saratoga
+New York,36,NY,Schenectady
+New York,36,NY,Schoharie
+New York,36,NY,Schuyler
+New York,36,NY,Seneca
+New York,36,NY,St. Lawrence
+New York,36,NY,Steuben
+New York,36,NY,Suffolk
+New York,36,NY,Sullivan
+New York,36,NY,Tioga
+New York,36,NY,Tompkins
+New York,36,NY,Ulster
+New York,36,NY,Warren
+New York,36,NY,Washington
+New York,36,NY,Wayne
+New York,36,NY,Westchester
+New York,36,NY,Wyoming
+New York,36,NY,Yates
+North Carolina,37,NC,Alamance
+North Carolina,37,NC,Alexander
+North Carolina,37,NC,Alleghany
+North Carolina,37,NC,Anson
+North Carolina,37,NC,Ashe
+North Carolina,37,NC,Avery
+North Carolina,37,NC,Beaufort
+North Carolina,37,NC,Bertie
+North Carolina,37,NC,Bladen
+North Carolina,37,NC,Brunswick
+North Carolina,37,NC,Buncombe
+North Carolina,37,NC,Burke
+North Carolina,37,NC,Cabarrus
+North Carolina,37,NC,Caldwell
+North Carolina,37,NC,Camden
+North Carolina,37,NC,Carteret
+North Carolina,37,NC,Caswell
+North Carolina,37,NC,Catawba
+North Carolina,37,NC,Chatham
+North Carolina,37,NC,Cherokee
+North Carolina,37,NC,Chowan
+North Carolina,37,NC,Clay
+North Carolina,37,NC,Cleveland
+North Carolina,37,NC,Columbus
+North Carolina,37,NC,Craven
+North Carolina,37,NC,Cumberland
+North Carolina,37,NC,Currituck
+North Carolina,37,NC,Dare
+North Carolina,37,NC,Davidson
+North Carolina,37,NC,Davie
+North Carolina,37,NC,Duplin
+North Carolina,37,NC,Durham
+North Carolina,37,NC,Edgecombe
+North Carolina,37,NC,Forsyth
+North Carolina,37,NC,Franklin
+North Carolina,37,NC,Gaston
+North Carolina,37,NC,Gates
+North Carolina,37,NC,Graham
+North Carolina,37,NC,Granville
+North Carolina,37,NC,Greene
+North Carolina,37,NC,Guilford
+North Carolina,37,NC,Halifax
+North Carolina,37,NC,Harnett
+North Carolina,37,NC,Haywood
+North Carolina,37,NC,Henderson
+North Carolina,37,NC,Hertford
+North Carolina,37,NC,Hoke
+North Carolina,37,NC,Hyde
+North Carolina,37,NC,Iredell
+North Carolina,37,NC,Jackson
+North Carolina,37,NC,Johnston
+North Carolina,37,NC,Jones
+North Carolina,37,NC,Lee
+North Carolina,37,NC,Lenoir
+North Carolina,37,NC,Lincoln
+North Carolina,37,NC,Macon
+North Carolina,37,NC,Madison
+North Carolina,37,NC,Martin
+North Carolina,37,NC,McDowell
+North Carolina,37,NC,Mecklenburg
+North Carolina,37,NC,Mitchell
+North Carolina,37,NC,Montgomery
+North Carolina,37,NC,Moore
+North Carolina,37,NC,Nash
+North Carolina,37,NC,New Hanover
+North Carolina,37,NC,Northampton
+North Carolina,37,NC,Onslow
+North Carolina,37,NC,Orange
+North Carolina,37,NC,Pamlico
+North Carolina,37,NC,Pasquotank
+North Carolina,37,NC,Pender
+North Carolina,37,NC,Perquimans
+North Carolina,37,NC,Person
+North Carolina,37,NC,Pitt
+North Carolina,37,NC,Polk
+North Carolina,37,NC,Randolph
+North Carolina,37,NC,Richmond
+North Carolina,37,NC,Robeson
+North Carolina,37,NC,Rockingham
+North Carolina,37,NC,Rowan
+North Carolina,37,NC,Rutherford
+North Carolina,37,NC,Sampson
+North Carolina,37,NC,Scotland
+North Carolina,37,NC,Stanly
+North Carolina,37,NC,Stokes
+North Carolina,37,NC,Surry
+North Carolina,37,NC,Swain
+North Carolina,37,NC,Transylvania
+North Carolina,37,NC,Tyrrell
+North Carolina,37,NC,Union
+North Carolina,37,NC,Vance
+North Carolina,37,NC,Wake
+North Carolina,37,NC,Warren
+North Carolina,37,NC,Washington
+North Carolina,37,NC,Watauga
+North Carolina,37,NC,Wayne
+North Carolina,37,NC,Wilkes
+North Carolina,37,NC,Wilson
+North Carolina,37,NC,Yadkin
+North Carolina,37,NC,Yancey
+North Dakota,38,ND,Adams
+North Dakota,38,ND,Barnes
+North Dakota,38,ND,Benson
+North Dakota,38,ND,Billings
+North Dakota,38,ND,Bottineau
+North Dakota,38,ND,Bowman
+North Dakota,38,ND,Burke
+North Dakota,38,ND,Burleigh
+North Dakota,38,ND,Cass
+North Dakota,38,ND,Cavalier
+North Dakota,38,ND,Dickey
+North Dakota,38,ND,Divide
+North Dakota,38,ND,Dunn
+North Dakota,38,ND,Eddy
+North Dakota,38,ND,Emmons
+North Dakota,38,ND,Foster
+North Dakota,38,ND,Golden Valley
+North Dakota,38,ND,Grand Forks
+North Dakota,38,ND,Grant
+North Dakota,38,ND,Griggs
+North Dakota,38,ND,Hettinger
+North Dakota,38,ND,Kidder
+North Dakota,38,ND,LaMoure
+North Dakota,38,ND,Logan
+North Dakota,38,ND,McHenry
+North Dakota,38,ND,McIntosh
+North Dakota,38,ND,McKenzie
+North Dakota,38,ND,McLean
+North Dakota,38,ND,Mercer
+North Dakota,38,ND,Morton
+North Dakota,38,ND,Mountrail
+North Dakota,38,ND,Nelson
+North Dakota,38,ND,Oliver
+North Dakota,38,ND,Pembina
+North Dakota,38,ND,Pierce
+North Dakota,38,ND,Ramsey
+North Dakota,38,ND,Ransom
+North Dakota,38,ND,Renville
+North Dakota,38,ND,Richland
+North Dakota,38,ND,Rolette
+North Dakota,38,ND,Sargent
+North Dakota,38,ND,Sheridan
+North Dakota,38,ND,Sioux
+North Dakota,38,ND,Slope
+North Dakota,38,ND,Stark
+North Dakota,38,ND,Steele
+North Dakota,38,ND,Stutsman
+North Dakota,38,ND,Towner
+North Dakota,38,ND,Traill
+North Dakota,38,ND,Walsh
+North Dakota,38,ND,Ward
+North Dakota,38,ND,Wells
+North Dakota,38,ND,Williams
+Ohio,39,OH,Adams
+Ohio,39,OH,Allen
+Ohio,39,OH,Ashland
+Ohio,39,OH,Ashtabula
+Ohio,39,OH,Athens
+Ohio,39,OH,Auglaize
+Ohio,39,OH,Belmont
+Ohio,39,OH,Brown
+Ohio,39,OH,Butler
+Ohio,39,OH,Carroll
+Ohio,39,OH,Champaign
+Ohio,39,OH,Clark
+Ohio,39,OH,Clermont
+Ohio,39,OH,Clinton
+Ohio,39,OH,Columbiana
+Ohio,39,OH,Coshocton
+Ohio,39,OH,Crawford
+Ohio,39,OH,Cuyahoga
+Ohio,39,OH,Darke
+Ohio,39,OH,Defiance
+Ohio,39,OH,Delaware
+Ohio,39,OH,Erie
+Ohio,39,OH,Fairfield
+Ohio,39,OH,Fayette
+Ohio,39,OH,Franklin
+Ohio,39,OH,Fulton
+Ohio,39,OH,Gallia
+Ohio,39,OH,Geauga
+Ohio,39,OH,Greene
+Ohio,39,OH,Guernsey
+Ohio,39,OH,Hamilton
+Ohio,39,OH,Hancock
+Ohio,39,OH,Hardin
+Ohio,39,OH,Harrison
+Ohio,39,OH,Henry
+Ohio,39,OH,Highland
+Ohio,39,OH,Hocking
+Ohio,39,OH,Holmes
+Ohio,39,OH,Huron
+Ohio,39,OH,Jackson
+Ohio,39,OH,Jefferson
+Ohio,39,OH,Knox
+Ohio,39,OH,Lake
+Ohio,39,OH,Lawrence
+Ohio,39,OH,Licking
+Ohio,39,OH,Logan
+Ohio,39,OH,Lorain
+Ohio,39,OH,Lucas
+Ohio,39,OH,Madison
+Ohio,39,OH,Mahoning
+Ohio,39,OH,Marion
+Ohio,39,OH,Medina
+Ohio,39,OH,Meigs
+Ohio,39,OH,Mercer
+Ohio,39,OH,Miami
+Ohio,39,OH,Monroe
+Ohio,39,OH,Montgomery
+Ohio,39,OH,Morgan
+Ohio,39,OH,Morrow
+Ohio,39,OH,Muskingum
+Ohio,39,OH,Noble
+Ohio,39,OH,Ottawa
+Ohio,39,OH,Paulding
+Ohio,39,OH,Perry
+Ohio,39,OH,Pickaway
+Ohio,39,OH,Pike
+Ohio,39,OH,Portage
+Ohio,39,OH,Preble
+Ohio,39,OH,Putnam
+Ohio,39,OH,Richland
+Ohio,39,OH,Ross
+Ohio,39,OH,Sandusky
+Ohio,39,OH,Scioto
+Ohio,39,OH,Seneca
+Ohio,39,OH,Shelby
+Ohio,39,OH,Stark
+Ohio,39,OH,Summit
+Ohio,39,OH,Trumbull
+Ohio,39,OH,Tuscarawas
+Ohio,39,OH,Union
+Ohio,39,OH,Van Wert
+Ohio,39,OH,Vinton
+Ohio,39,OH,Warren
+Ohio,39,OH,Washington
+Ohio,39,OH,Wayne
+Ohio,39,OH,Williams
+Ohio,39,OH,Wood
+Ohio,39,OH,Wyandot
+Oklahoma,40,OK,Adair
+Oklahoma,40,OK,Alfalfa
+Oklahoma,40,OK,Atoka
+Oklahoma,40,OK,Beaver
+Oklahoma,40,OK,Beckham
+Oklahoma,40,OK,Blaine
+Oklahoma,40,OK,Bryan
+Oklahoma,40,OK,Caddo
+Oklahoma,40,OK,Canadian
+Oklahoma,40,OK,Carter
+Oklahoma,40,OK,Cherokee
+Oklahoma,40,OK,Choctaw
+Oklahoma,40,OK,Cimarron
+Oklahoma,40,OK,Cleveland
+Oklahoma,40,OK,Coal
+Oklahoma,40,OK,Comanche
+Oklahoma,40,OK,Cotton
+Oklahoma,40,OK,Craig
+Oklahoma,40,OK,Creek
+Oklahoma,40,OK,Custer
+Oklahoma,40,OK,Delaware
+Oklahoma,40,OK,Dewey
+Oklahoma,40,OK,Ellis
+Oklahoma,40,OK,Garfield
+Oklahoma,40,OK,Garvin
+Oklahoma,40,OK,Grady
+Oklahoma,40,OK,Grant
+Oklahoma,40,OK,Greer
+Oklahoma,40,OK,Harmon
+Oklahoma,40,OK,Harper
+Oklahoma,40,OK,Haskell
+Oklahoma,40,OK,Hughes
+Oklahoma,40,OK,Jackson
+Oklahoma,40,OK,Jefferson
+Oklahoma,40,OK,Johnston
+Oklahoma,40,OK,Kay
+Oklahoma,40,OK,Kingfisher
+Oklahoma,40,OK,Kiowa
+Oklahoma,40,OK,Latimer
+Oklahoma,40,OK,Le Flore
+Oklahoma,40,OK,Lincoln
+Oklahoma,40,OK,Logan
+Oklahoma,40,OK,Love
+Oklahoma,40,OK,Major
+Oklahoma,40,OK,Marshall
+Oklahoma,40,OK,Mayes
+Oklahoma,40,OK,McClain
+Oklahoma,40,OK,McCurtain
+Oklahoma,40,OK,McIntosh
+Oklahoma,40,OK,Murray
+Oklahoma,40,OK,Muskogee
+Oklahoma,40,OK,Noble
+Oklahoma,40,OK,Nowata
+Oklahoma,40,OK,Okfuskee
+Oklahoma,40,OK,Oklahoma
+Oklahoma,40,OK,Okmulgee
+Oklahoma,40,OK,Osage
+Oklahoma,40,OK,Ottawa
+Oklahoma,40,OK,Pawnee
+Oklahoma,40,OK,Payne
+Oklahoma,40,OK,Pittsburg
+Oklahoma,40,OK,Pontotoc
+Oklahoma,40,OK,Pottawatomie
+Oklahoma,40,OK,Pushmataha
+Oklahoma,40,OK,Roger Mills
+Oklahoma,40,OK,Rogers
+Oklahoma,40,OK,Seminole
+Oklahoma,40,OK,Sequoyah
+Oklahoma,40,OK,Stephens
+Oklahoma,40,OK,Texas
+Oklahoma,40,OK,Tillman
+Oklahoma,40,OK,Tulsa
+Oklahoma,40,OK,Wagoner
+Oklahoma,40,OK,Washington
+Oklahoma,40,OK,Washita
+Oklahoma,40,OK,Woods
+Oklahoma,40,OK,Woodward
+Oregon,41,OR,Baker
+Oregon,41,OR,Benton
+Oregon,41,OR,Clackamas
+Oregon,41,OR,Clatsop
+Oregon,41,OR,Columbia
+Oregon,41,OR,Coos
+Oregon,41,OR,Crook
+Oregon,41,OR,Curry
+Oregon,41,OR,Deschutes
+Oregon,41,OR,Douglas
+Oregon,41,OR,Gilliam
+Oregon,41,OR,Grant
+Oregon,41,OR,Harney
+Oregon,41,OR,Hood River
+Oregon,41,OR,Jackson
+Oregon,41,OR,Jefferson
+Oregon,41,OR,Josephine
+Oregon,41,OR,Klamath
+Oregon,41,OR,Lake
+Oregon,41,OR,Lane
+Oregon,41,OR,Lincoln
+Oregon,41,OR,Linn
+Oregon,41,OR,Malheur
+Oregon,41,OR,Marion
+Oregon,41,OR,Morrow
+Oregon,41,OR,Multnomah
+Oregon,41,OR,Polk
+Oregon,41,OR,Sherman
+Oregon,41,OR,Tillamook
+Oregon,41,OR,Umatilla
+Oregon,41,OR,Union
+Oregon,41,OR,Wallowa
+Oregon,41,OR,Wasco
+Oregon,41,OR,Washington
+Oregon,41,OR,Wheeler
+Oregon,41,OR,Yamhill
+Pennsylvania,42,PA,Adams
+Pennsylvania,42,PA,Allegheny
+Pennsylvania,42,PA,Armstrong
+Pennsylvania,42,PA,Beaver
+Pennsylvania,42,PA,Bedford
+Pennsylvania,42,PA,Berks
+Pennsylvania,42,PA,Blair
+Pennsylvania,42,PA,Bradford
+Pennsylvania,42,PA,Bucks
+Pennsylvania,42,PA,Butler
+Pennsylvania,42,PA,Cambria
+Pennsylvania,42,PA,Cameron
+Pennsylvania,42,PA,Carbon
+Pennsylvania,42,PA,Centre
+Pennsylvania,42,PA,Chester
+Pennsylvania,42,PA,Clarion
+Pennsylvania,42,PA,Clearfield
+Pennsylvania,42,PA,Clinton
+Pennsylvania,42,PA,Columbia
+Pennsylvania,42,PA,Crawford
+Pennsylvania,42,PA,Cumberland
+Pennsylvania,42,PA,Dauphin
+Pennsylvania,42,PA,Delaware
+Pennsylvania,42,PA,Elk
+Pennsylvania,42,PA,Erie
+Pennsylvania,42,PA,Fayette
+Pennsylvania,42,PA,Forest
+Pennsylvania,42,PA,Franklin
+Pennsylvania,42,PA,Fulton
+Pennsylvania,42,PA,Greene
+Pennsylvania,42,PA,Huntingdon
+Pennsylvania,42,PA,Indiana
+Pennsylvania,42,PA,Jefferson
+Pennsylvania,42,PA,Juniata
+Pennsylvania,42,PA,Lackawanna
+Pennsylvania,42,PA,Lancaster
+Pennsylvania,42,PA,Lawrence
+Pennsylvania,42,PA,Lebanon
+Pennsylvania,42,PA,Lehigh
+Pennsylvania,42,PA,Luzerne
+Pennsylvania,42,PA,Lycoming
+Pennsylvania,42,PA,McKean
+Pennsylvania,42,PA,Mercer
+Pennsylvania,42,PA,Mifflin
+Pennsylvania,42,PA,Monroe
+Pennsylvania,42,PA,Montgomery
+Pennsylvania,42,PA,Montour
+Pennsylvania,42,PA,Northampton
+Pennsylvania,42,PA,Northumberland
+Pennsylvania,42,PA,Perry
+Pennsylvania,42,PA,Philadelphia
+Pennsylvania,42,PA,Pike
+Pennsylvania,42,PA,Potter
+Pennsylvania,42,PA,Schuylkill
+Pennsylvania,42,PA,Snyder
+Pennsylvania,42,PA,Somerset
+Pennsylvania,42,PA,Sullivan
+Pennsylvania,42,PA,Susquehanna
+Pennsylvania,42,PA,Tioga
+Pennsylvania,42,PA,Union
+Pennsylvania,42,PA,Venango
+Pennsylvania,42,PA,Warren
+Pennsylvania,42,PA,Washington
+Pennsylvania,42,PA,Wayne
+Pennsylvania,42,PA,Westmoreland
+Pennsylvania,42,PA,Wyoming
+Pennsylvania,42,PA,York
+Rhode Island,44,RI,Bristol
+Rhode Island,44,RI,Kent
+Rhode Island,44,RI,Newport
+Rhode Island,44,RI,Providence
+Rhode Island,44,RI,Washington
+South Carolina,45,SC,Abbeville
+South Carolina,45,SC,Aiken
+South Carolina,45,SC,Allendale
+South Carolina,45,SC,Anderson
+South Carolina,45,SC,Bamberg
+South Carolina,45,SC,Barnwell
+South Carolina,45,SC,Beaufort
+South Carolina,45,SC,Berkeley
+South Carolina,45,SC,Calhoun
+South Carolina,45,SC,Charleston
+South Carolina,45,SC,Cherokee
+South Carolina,45,SC,Chester
+South Carolina,45,SC,Chesterfield
+South Carolina,45,SC,Clarendon
+South Carolina,45,SC,Colleton
+South Carolina,45,SC,Darlington
+South Carolina,45,SC,Dillon
+South Carolina,45,SC,Dorchester
+South Carolina,45,SC,Edgefield
+South Carolina,45,SC,Fairfield
+South Carolina,45,SC,Florence
+South Carolina,45,SC,Georgetown
+South Carolina,45,SC,Greenville
+South Carolina,45,SC,Greenwood
+South Carolina,45,SC,Hampton
+South Carolina,45,SC,Horry
+South Carolina,45,SC,Jasper
+South Carolina,45,SC,Kershaw
+South Carolina,45,SC,Lancaster
+South Carolina,45,SC,Laurens
+South Carolina,45,SC,Lee
+South Carolina,45,SC,Lexington
+South Carolina,45,SC,Marion
+South Carolina,45,SC,Marlboro
+South Carolina,45,SC,McCormick
+South Carolina,45,SC,Newberry
+South Carolina,45,SC,Oconee
+South Carolina,45,SC,Orangeburg
+South Carolina,45,SC,Pickens
+South Carolina,45,SC,Richland
+South Carolina,45,SC,Saluda
+South Carolina,45,SC,Spartanburg
+South Carolina,45,SC,Sumter
+South Carolina,45,SC,Union
+South Carolina,45,SC,Williamsburg
+South Carolina,45,SC,York
+South Dakota,46,SD,Aurora
+South Dakota,46,SD,Beadle
+South Dakota,46,SD,Bennett
+South Dakota,46,SD,Bon Homme
+South Dakota,46,SD,Brookings
+South Dakota,46,SD,Brown
+South Dakota,46,SD,Brule
+South Dakota,46,SD,Buffalo
+South Dakota,46,SD,Butte
+South Dakota,46,SD,Campbell
+South Dakota,46,SD,Charles Mix
+South Dakota,46,SD,Clark
+South Dakota,46,SD,Clay
+South Dakota,46,SD,Codington
+South Dakota,46,SD,Corson
+South Dakota,46,SD,Custer
+South Dakota,46,SD,Davison
+South Dakota,46,SD,Day
+South Dakota,46,SD,Deuel
+South Dakota,46,SD,Dewey
+South Dakota,46,SD,Douglas
+South Dakota,46,SD,Edmunds
+South Dakota,46,SD,Fall River
+South Dakota,46,SD,Faulk
+South Dakota,46,SD,Grant
+South Dakota,46,SD,Gregory
+South Dakota,46,SD,Haakon
+South Dakota,46,SD,Hamlin
+South Dakota,46,SD,Hand
+South Dakota,46,SD,Hanson
+South Dakota,46,SD,Harding
+South Dakota,46,SD,Hughes
+South Dakota,46,SD,Hutchinson
+South Dakota,46,SD,Hyde
+South Dakota,46,SD,Jackson
+South Dakota,46,SD,Jerauld
+South Dakota,46,SD,Jones
+South Dakota,46,SD,Kingsbury
+South Dakota,46,SD,Lake
+South Dakota,46,SD,Lawrence
+South Dakota,46,SD,Lincoln
+South Dakota,46,SD,Lyman
+South Dakota,46,SD,Marshall
+South Dakota,46,SD,McCook
+South Dakota,46,SD,McPherson
+South Dakota,46,SD,Meade
+South Dakota,46,SD,Mellette
+South Dakota,46,SD,Miner
+South Dakota,46,SD,Minnehaha
+South Dakota,46,SD,Moody
+South Dakota,46,SD,Pennington
+South Dakota,46,SD,Perkins
+South Dakota,46,SD,Potter
+South Dakota,46,SD,Roberts
+South Dakota,46,SD,Sanborn
+South Dakota,46,SD,Shannon
+South Dakota,46,SD,Spink
+South Dakota,46,SD,Stanley
+South Dakota,46,SD,Sully
+South Dakota,46,SD,Todd
+South Dakota,46,SD,Tripp
+South Dakota,46,SD,Turner
+South Dakota,46,SD,Union
+South Dakota,46,SD,Walworth
+South Dakota,46,SD,Yankton
+South Dakota,46,SD,Ziebach
+Tennessee,47,TN,Anderson
+Tennessee,47,TN,Bedford
+Tennessee,47,TN,Benton
+Tennessee,47,TN,Bledsoe
+Tennessee,47,TN,Blount
+Tennessee,47,TN,Bradley
+Tennessee,47,TN,Campbell
+Tennessee,47,TN,Cannon
+Tennessee,47,TN,Carroll
+Tennessee,47,TN,Carter
+Tennessee,47,TN,Cheatham
+Tennessee,47,TN,Chester
+Tennessee,47,TN,Claiborne
+Tennessee,47,TN,Clay
+Tennessee,47,TN,Cocke
+Tennessee,47,TN,Coffee
+Tennessee,47,TN,Crockett
+Tennessee,47,TN,Cumberland
+Tennessee,47,TN,Davidson
+Tennessee,47,TN,Decatur
+Tennessee,47,TN,DeKalb
+Tennessee,47,TN,Dickson
+Tennessee,47,TN,Dyer
+Tennessee,47,TN,Fayette
+Tennessee,47,TN,Fentress
+Tennessee,47,TN,Franklin
+Tennessee,47,TN,Gibson
+Tennessee,47,TN,Giles
+Tennessee,47,TN,Grainger
+Tennessee,47,TN,Greene
+Tennessee,47,TN,Grundy
+Tennessee,47,TN,Hamblen
+Tennessee,47,TN,Hamilton
+Tennessee,47,TN,Hancock
+Tennessee,47,TN,Hardeman
+Tennessee,47,TN,Hardin
+Tennessee,47,TN,Hawkins
+Tennessee,47,TN,Haywood
+Tennessee,47,TN,Henderson
+Tennessee,47,TN,Henry
+Tennessee,47,TN,Hickman
+Tennessee,47,TN,Houston
+Tennessee,47,TN,Humphreys
+Tennessee,47,TN,Jackson
+Tennessee,47,TN,Jefferson
+Tennessee,47,TN,Johnson
+Tennessee,47,TN,Knox
+Tennessee,47,TN,Lake
+Tennessee,47,TN,Lauderdale
+Tennessee,47,TN,Lawrence
+Tennessee,47,TN,Lewis
+Tennessee,47,TN,Lincoln
+Tennessee,47,TN,Loudon
+Tennessee,47,TN,Macon
+Tennessee,47,TN,Madison
+Tennessee,47,TN,Marion
+Tennessee,47,TN,Marshall
+Tennessee,47,TN,Maury
+Tennessee,47,TN,McMinn
+Tennessee,47,TN,McNairy
+Tennessee,47,TN,Meigs
+Tennessee,47,TN,Monroe
+Tennessee,47,TN,Montgomery
+Tennessee,47,TN,Moore
+Tennessee,47,TN,Morgan
+Tennessee,47,TN,Obion
+Tennessee,47,TN,Overton
+Tennessee,47,TN,Perry
+Tennessee,47,TN,Pickett
+Tennessee,47,TN,Polk
+Tennessee,47,TN,Putnam
+Tennessee,47,TN,Rhea
+Tennessee,47,TN,Roane
+Tennessee,47,TN,Robertson
+Tennessee,47,TN,Rutherford
+Tennessee,47,TN,Scott
+Tennessee,47,TN,Sequatchie
+Tennessee,47,TN,Sevier
+Tennessee,47,TN,Shelby
+Tennessee,47,TN,Smith
+Tennessee,47,TN,Stewart
+Tennessee,47,TN,Sullivan
+Tennessee,47,TN,Sumner
+Tennessee,47,TN,Tipton
+Tennessee,47,TN,Trousdale
+Tennessee,47,TN,Unicoi
+Tennessee,47,TN,Union
+Tennessee,47,TN,Van Buren
+Tennessee,47,TN,Warren
+Tennessee,47,TN,Washington
+Tennessee,47,TN,Wayne
+Tennessee,47,TN,Weakley
+Tennessee,47,TN,White
+Tennessee,47,TN,Williamson
+Tennessee,47,TN,Wilson
+Texas,48,TX,Anderson
+Texas,48,TX,Andrews
+Texas,48,TX,Angelina
+Texas,48,TX,Aransas
+Texas,48,TX,Archer
+Texas,48,TX,Armstrong
+Texas,48,TX,Atascosa
+Texas,48,TX,Austin
+Texas,48,TX,Bailey
+Texas,48,TX,Bandera
+Texas,48,TX,Bastrop
+Texas,48,TX,Baylor
+Texas,48,TX,Bee
+Texas,48,TX,Bell
+Texas,48,TX,Bexar
+Texas,48,TX,Blanco
+Texas,48,TX,Borden
+Texas,48,TX,Bosque
+Texas,48,TX,Bowie
+Texas,48,TX,Brazoria
+Texas,48,TX,Brazos
+Texas,48,TX,Brewster
+Texas,48,TX,Briscoe
+Texas,48,TX,Brooks
+Texas,48,TX,Brown
+Texas,48,TX,Burleson
+Texas,48,TX,Burnet
+Texas,48,TX,Caldwell
+Texas,48,TX,Calhoun
+Texas,48,TX,Callahan
+Texas,48,TX,Cameron
+Texas,48,TX,Camp
+Texas,48,TX,Carson
+Texas,48,TX,Cass
+Texas,48,TX,Castro
+Texas,48,TX,Chambers
+Texas,48,TX,Cherokee
+Texas,48,TX,Childress
+Texas,48,TX,Clay
+Texas,48,TX,Cochran
+Texas,48,TX,Coke
+Texas,48,TX,Coleman
+Texas,48,TX,Collin
+Texas,48,TX,Collingsworth
+Texas,48,TX,Colorado
+Texas,48,TX,Comal
+Texas,48,TX,Comanche
+Texas,48,TX,Concho
+Texas,48,TX,Cooke
+Texas,48,TX,Coryell
+Texas,48,TX,Cottle
+Texas,48,TX,Crane
+Texas,48,TX,Crockett
+Texas,48,TX,Crosby
+Texas,48,TX,Culberson
+Texas,48,TX,Dallam
+Texas,48,TX,Dallas
+Texas,48,TX,Dawson
+Texas,48,TX,Deaf Smith
+Texas,48,TX,Delta
+Texas,48,TX,Denton
+Texas,48,TX,DeWitt
+Texas,48,TX,Dickens
+Texas,48,TX,Dimmit
+Texas,48,TX,Donley
+Texas,48,TX,Duval
+Texas,48,TX,Eastland
+Texas,48,TX,Ector
+Texas,48,TX,Edwards
+Texas,48,TX,El Paso
+Texas,48,TX,Ellis
+Texas,48,TX,Erath
+Texas,48,TX,Falls
+Texas,48,TX,Fannin
+Texas,48,TX,Fayette
+Texas,48,TX,Fisher
+Texas,48,TX,Floyd
+Texas,48,TX,Foard
+Texas,48,TX,Fort Bend
+Texas,48,TX,Franklin
+Texas,48,TX,Freestone
+Texas,48,TX,Frio
+Texas,48,TX,Gaines
+Texas,48,TX,Galveston
+Texas,48,TX,Garza
+Texas,48,TX,Gillespie
+Texas,48,TX,Glasscock
+Texas,48,TX,Goliad
+Texas,48,TX,Gonzales
+Texas,48,TX,Gray
+Texas,48,TX,Grayson
+Texas,48,TX,Gregg
+Texas,48,TX,Grimes
+Texas,48,TX,Guadalupe
+Texas,48,TX,Hale
+Texas,48,TX,Hall
+Texas,48,TX,Hamilton
+Texas,48,TX,Hansford
+Texas,48,TX,Hardeman
+Texas,48,TX,Hardin
+Texas,48,TX,Harris
+Texas,48,TX,Harrison
+Texas,48,TX,Hartley
+Texas,48,TX,Haskell
+Texas,48,TX,Hays
+Texas,48,TX,Hemphill
+Texas,48,TX,Henderson
+Texas,48,TX,Hidalgo
+Texas,48,TX,Hill
+Texas,48,TX,Hockley
+Texas,48,TX,Hood
+Texas,48,TX,Hopkins
+Texas,48,TX,Houston
+Texas,48,TX,Howard
+Texas,48,TX,Hudspeth
+Texas,48,TX,Hunt
+Texas,48,TX,Hutchinson
+Texas,48,TX,Irion
+Texas,48,TX,Jack
+Texas,48,TX,Jackson
+Texas,48,TX,Jasper
+Texas,48,TX,Jeff Davis
+Texas,48,TX,Jefferson
+Texas,48,TX,Jim Hogg
+Texas,48,TX,Jim Wells
+Texas,48,TX,Johnson
+Texas,48,TX,Jones
+Texas,48,TX,Karnes
+Texas,48,TX,Kaufman
+Texas,48,TX,Kendall
+Texas,48,TX,Kenedy
+Texas,48,TX,Kent
+Texas,48,TX,Kerr
+Texas,48,TX,Kimble
+Texas,48,TX,King
+Texas,48,TX,Kinney
+Texas,48,TX,Kleberg
+Texas,48,TX,Knox
+Texas,48,TX,La Salle
+Texas,48,TX,Lamar
+Texas,48,TX,Lamb
+Texas,48,TX,Lampasas
+Texas,48,TX,Lavaca
+Texas,48,TX,Lee
+Texas,48,TX,Leon
+Texas,48,TX,Liberty
+Texas,48,TX,Limestone
+Texas,48,TX,Lipscomb
+Texas,48,TX,Live Oak
+Texas,48,TX,Llano
+Texas,48,TX,Loving
+Texas,48,TX,Lubbock
+Texas,48,TX,Lynn
+Texas,48,TX,Madison
+Texas,48,TX,Marion
+Texas,48,TX,Martin
+Texas,48,TX,Mason
+Texas,48,TX,Matagorda
+Texas,48,TX,Maverick
+Texas,48,TX,McCulloch
+Texas,48,TX,McLennan
+Texas,48,TX,McMullen
+Texas,48,TX,Medina
+Texas,48,TX,Menard
+Texas,48,TX,Midland
+Texas,48,TX,Milam
+Texas,48,TX,Mills
+Texas,48,TX,Mitchell
+Texas,48,TX,Montague
+Texas,48,TX,Montgomery
+Texas,48,TX,Moore
+Texas,48,TX,Morris
+Texas,48,TX,Motley
+Texas,48,TX,Nacogdoches
+Texas,48,TX,Navarro
+Texas,48,TX,Newton
+Texas,48,TX,Nolan
+Texas,48,TX,Nueces
+Texas,48,TX,Ochiltree
+Texas,48,TX,Oldham
+Texas,48,TX,Orange
+Texas,48,TX,Palo Pinto
+Texas,48,TX,Panola
+Texas,48,TX,Parker
+Texas,48,TX,Parmer
+Texas,48,TX,Pecos
+Texas,48,TX,Polk
+Texas,48,TX,Potter
+Texas,48,TX,Presidio
+Texas,48,TX,Rains
+Texas,48,TX,Randall
+Texas,48,TX,Reagan
+Texas,48,TX,Real
+Texas,48,TX,Red River
+Texas,48,TX,Reeves
+Texas,48,TX,Refugio
+Texas,48,TX,Roberts
+Texas,48,TX,Robertson
+Texas,48,TX,Rockwall
+Texas,48,TX,Runnels
+Texas,48,TX,Rusk
+Texas,48,TX,Sabine
+Texas,48,TX,San Augustine
+Texas,48,TX,San Jacinto
+Texas,48,TX,San Patricio
+Texas,48,TX,San Saba
+Texas,48,TX,Schleicher
+Texas,48,TX,Scurry
+Texas,48,TX,Shackelford
+Texas,48,TX,Shelby
+Texas,48,TX,Sherman
+Texas,48,TX,Smith
+Texas,48,TX,Somervell
+Texas,48,TX,Starr
+Texas,48,TX,Stephens
+Texas,48,TX,Sterling
+Texas,48,TX,Stonewall
+Texas,48,TX,Sutton
+Texas,48,TX,Swisher
+Texas,48,TX,Tarrant
+Texas,48,TX,Taylor
+Texas,48,TX,Terrell
+Texas,48,TX,Terry
+Texas,48,TX,Throckmorton
+Texas,48,TX,Titus
+Texas,48,TX,Tom Green
+Texas,48,TX,Travis
+Texas,48,TX,Trinity
+Texas,48,TX,Tyler
+Texas,48,TX,Upshur
+Texas,48,TX,Upton
+Texas,48,TX,Uvalde
+Texas,48,TX,Val Verde
+Texas,48,TX,Van Zandt
+Texas,48,TX,Victoria
+Texas,48,TX,Walker
+Texas,48,TX,Waller
+Texas,48,TX,Ward
+Texas,48,TX,Washington
+Texas,48,TX,Webb
+Texas,48,TX,Wharton
+Texas,48,TX,Wheeler
+Texas,48,TX,Wichita
+Texas,48,TX,Wilbarger
+Texas,48,TX,Willacy
+Texas,48,TX,Williamson
+Texas,48,TX,Wilson
+Texas,48,TX,Winkler
+Texas,48,TX,Wise
+Texas,48,TX,Wood
+Texas,48,TX,Yoakum
+Texas,48,TX,Young
+Texas,48,TX,Zapata
+Texas,48,TX,Zavala
+Utah,49,UT,Beaver
+Utah,49,UT,Box Elder
+Utah,49,UT,Cache
+Utah,49,UT,Carbon
+Utah,49,UT,Daggett
+Utah,49,UT,Davis
+Utah,49,UT,Duchesne
+Utah,49,UT,Emery
+Utah,49,UT,Garfield
+Utah,49,UT,Grand
+Utah,49,UT,Iron
+Utah,49,UT,Juab
+Utah,49,UT,Kane
+Utah,49,UT,Millard
+Utah,49,UT,Morgan
+Utah,49,UT,Piute
+Utah,49,UT,Rich
+Utah,49,UT,Salt Lake
+Utah,49,UT,San Juan
+Utah,49,UT,Sanpete
+Utah,49,UT,Sevier
+Utah,49,UT,Summit
+Utah,49,UT,Tooele
+Utah,49,UT,Uintah
+Utah,49,UT,Utah
+Utah,49,UT,Wasatch
+Utah,49,UT,Washington
+Utah,49,UT,Wayne
+Utah,49,UT,Weber
+Vermont,50,VT,Addison
+Vermont,50,VT,Bennington
+Vermont,50,VT,Caledonia
+Vermont,50,VT,Chittenden
+Vermont,50,VT,Essex
+Vermont,50,VT,Franklin
+Vermont,50,VT,Grand Isle
+Vermont,50,VT,Lamoille
+Vermont,50,VT,Orange
+Vermont,50,VT,Orleans
+Vermont,50,VT,Rutland
+Vermont,50,VT,Washington
+Vermont,50,VT,Windham
+Vermont,50,VT,Windsor
+Virginia,51,VA,Accomack
+Virginia,51,VA,Albemarle
+Virginia,51,VA,Alexandria
+Virginia,51,VA,Alleghany
+Virginia,51,VA,Amelia
+Virginia,51,VA,Amherst
+Virginia,51,VA,Appomattox
+Virginia,51,VA,Arlington
+Virginia,51,VA,Augusta
+Virginia,51,VA,Bath
+Virginia,51,VA,Bedford
+Virginia,51,VA,Bedford
+Virginia,51,VA,Bland
+Virginia,51,VA,Botetourt
+Virginia,51,VA,Bristol
+Virginia,51,VA,Brunswick
+Virginia,51,VA,Buchanan
+Virginia,51,VA,Buckingham
+Virginia,51,VA,Buena Vista
+Virginia,51,VA,Campbell
+Virginia,51,VA,Caroline
+Virginia,51,VA,Carroll
+Virginia,51,VA,Charles City
+Virginia,51,VA,Charlotte
+Virginia,51,VA,Charlottesville
+Virginia,51,VA,Chesapeake
+Virginia,51,VA,Chesterfield
+Virginia,51,VA,Clarke
+Virginia,51,VA,Clifton Forge
+Virginia,51,VA,Colonial Heights
+Virginia,51,VA,Covington
+Virginia,51,VA,Craig
+Virginia,51,VA,Culpeper
+Virginia,51,VA,Cumberland
+Virginia,51,VA,Danville
+Virginia,51,VA,Dickenson
+Virginia,51,VA,Dinwiddie
+Virginia,51,VA,Emporia
+Virginia,51,VA,Essex
+Virginia,51,VA,Fairfax
+Virginia,51,VA,Fairfax
+Virginia,51,VA,Falls Church
+Virginia,51,VA,Fauquier
+Virginia,51,VA,Floyd
+Virginia,51,VA,Fluvanna
+Virginia,51,VA,Franklin
+Virginia,51,VA,Franklin
+Virginia,51,VA,Frederick
+Virginia,51,VA,Fredericksburg
+Virginia,51,VA,Galax
+Virginia,51,VA,Giles
+Virginia,51,VA,Gloucester
+Virginia,51,VA,Goochland
+Virginia,51,VA,Grayson
+Virginia,51,VA,Greene
+Virginia,51,VA,Greensville
+Virginia,51,VA,Halifax
+Virginia,51,VA,Hampton
+Virginia,51,VA,Hanover
+Virginia,51,VA,Harrisonburg
+Virginia,51,VA,Henrico
+Virginia,51,VA,Henry
+Virginia,51,VA,Highland
+Virginia,51,VA,Hopewell
+Virginia,51,VA,Isle of Wight
+Virginia,51,VA,James City
+Virginia,51,VA,King and Queen
+Virginia,51,VA,King George
+Virginia,51,VA,King William
+Virginia,51,VA,Lancaster
+Virginia,51,VA,Lee
+Virginia,51,VA,Lexington
+Virginia,51,VA,Loudoun
+Virginia,51,VA,Louisa
+Virginia,51,VA,Lunenburg
+Virginia,51,VA,Lynchburg
+Virginia,51,VA,Madison
+Virginia,51,VA,Manassas
+Virginia,51,VA,Manassas Park
+Virginia,51,VA,Martinsville
+Virginia,51,VA,Mathews
+Virginia,51,VA,Mecklenburg
+Virginia,51,VA,Middlesex
+Virginia,51,VA,Montgomery
+Virginia,51,VA,Nelson
+Virginia,51,VA,New Kent
+Virginia,51,VA,Newport News
+Virginia,51,VA,Norfolk
+Virginia,51,VA,Northampton
+Virginia,51,VA,Northumberland
+Virginia,51,VA,Norton
+Virginia,51,VA,Nottoway
+Virginia,51,VA,Orange
+Virginia,51,VA,Page
+Virginia,51,VA,Patrick
+Virginia,51,VA,Petersburg
+Virginia,51,VA,Pittsylvania
+Virginia,51,VA,Poquoson
+Virginia,51,VA,Portsmouth
+Virginia,51,VA,Powhatan
+Virginia,51,VA,Prince Edward
+Virginia,51,VA,Prince George
+Virginia,51,VA,Prince William
+Virginia,51,VA,Pulaski
+Virginia,51,VA,Radford
+Virginia,51,VA,Rappahannock
+Virginia,51,VA,Richmond
+Virginia,51,VA,Richmond
+Virginia,51,VA,Roanoke
+Virginia,51,VA,Roanoke
+Virginia,51,VA,Rockbridge
+Virginia,51,VA,Rockingham
+Virginia,51,VA,Russell
+Virginia,51,VA,Salem
+Virginia,51,VA,Scott
+Virginia,51,VA,Shenandoah
+Virginia,51,VA,Smyth
+Virginia,51,VA,South Boston
+Virginia,51,VA,Southampton
+Virginia,51,VA,Spotsylvania
+Virginia,51,VA,Stafford
+Virginia,51,VA,Staunton
+Virginia,51,VA,Suffolk
+Virginia,51,VA,Surry
+Virginia,51,VA,Sussex
+Virginia,51,VA,Tazewell
+Virginia,51,VA,Virginia Beach
+Virginia,51,VA,Warren
+Virginia,51,VA,Washington
+Virginia,51,VA,Waynesboro
+Virginia,51,VA,Westmoreland
+Virginia,51,VA,Williamsburg
+Virginia,51,VA,Winchester
+Virginia,51,VA,Wise
+Virginia,51,VA,Wythe
+Virginia,51,VA,York
+Washington,53,WA,Adams
+Washington,53,WA,Asotin
+Washington,53,WA,Benton
+Washington,53,WA,Chelan
+Washington,53,WA,Clallam
+Washington,53,WA,Clark
+Washington,53,WA,Columbia
+Washington,53,WA,Cowlitz
+Washington,53,WA,Douglas
+Washington,53,WA,Ferry
+Washington,53,WA,Franklin
+Washington,53,WA,Garfield
+Washington,53,WA,Grant
+Washington,53,WA,Grays Harbor
+Washington,53,WA,Island
+Washington,53,WA,Jefferson
+Washington,53,WA,King
+Washington,53,WA,Kitsap
+Washington,53,WA,Kittitas
+Washington,53,WA,Klickitat
+Washington,53,WA,Lewis
+Washington,53,WA,Lincoln
+Washington,53,WA,Mason
+Washington,53,WA,Okanogan
+Washington,53,WA,Pacific
+Washington,53,WA,Pend Oreille
+Washington,53,WA,Pierce
+Washington,53,WA,San Juan
+Washington,53,WA,Skagit
+Washington,53,WA,Skamania
+Washington,53,WA,Snohomish
+Washington,53,WA,Spokane
+Washington,53,WA,Stevens
+Washington,53,WA,Thurston
+Washington,53,WA,Wahkiakum
+Washington,53,WA,Walla Walla
+Washington,53,WA,Whatcom
+Washington,53,WA,Whitman
+Washington,53,WA,Yakima
+West Virginia,54,WV,Barbour
+West Virginia,54,WV,Berkeley
+West Virginia,54,WV,Boone
+West Virginia,54,WV,Braxton
+West Virginia,54,WV,Brooke
+West Virginia,54,WV,Cabell
+West Virginia,54,WV,Calhoun
+West Virginia,54,WV,Clay
+West Virginia,54,WV,Doddridge
+West Virginia,54,WV,Fayette
+West Virginia,54,WV,Gilmer
+West Virginia,54,WV,Grant
+West Virginia,54,WV,Greenbrier
+West Virginia,54,WV,Hampshire
+West Virginia,54,WV,Hancock
+West Virginia,54,WV,Hardy
+West Virginia,54,WV,Harrison
+West Virginia,54,WV,Jackson
+West Virginia,54,WV,Jefferson
+West Virginia,54,WV,Kanawha
+West Virginia,54,WV,Lewis
+West Virginia,54,WV,Lincoln
+West Virginia,54,WV,Logan
+West Virginia,54,WV,Marion
+West Virginia,54,WV,Marshall
+West Virginia,54,WV,Mason
+West Virginia,54,WV,McDowell
+West Virginia,54,WV,Mercer
+West Virginia,54,WV,Mineral
+West Virginia,54,WV,Mingo
+West Virginia,54,WV,Monongalia
+West Virginia,54,WV,Monroe
+West Virginia,54,WV,Morgan
+West Virginia,54,WV,Nicholas
+West Virginia,54,WV,Ohio
+West Virginia,54,WV,Pendleton
+West Virginia,54,WV,Pleasants
+West Virginia,54,WV,Pocahontas
+West Virginia,54,WV,Preston
+West Virginia,54,WV,Putnam
+West Virginia,54,WV,Raleigh
+West Virginia,54,WV,Randolph
+West Virginia,54,WV,Ritchie
+West Virginia,54,WV,Roane
+West Virginia,54,WV,Summers
+West Virginia,54,WV,Taylor
+West Virginia,54,WV,Tucker
+West Virginia,54,WV,Tyler
+West Virginia,54,WV,Upshur
+West Virginia,54,WV,Wayne
+West Virginia,54,WV,Webster
+West Virginia,54,WV,Wetzel
+West Virginia,54,WV,Wirt
+West Virginia,54,WV,Wood
+West Virginia,54,WV,Wyoming
+Wisconsin,55,WI,Adams
+Wisconsin,55,WI,Ashland
+Wisconsin,55,WI,Barron
+Wisconsin,55,WI,Bayfield
+Wisconsin,55,WI,Brown
+Wisconsin,55,WI,Buffalo
+Wisconsin,55,WI,Burnett
+Wisconsin,55,WI,Calumet
+Wisconsin,55,WI,Chippewa
+Wisconsin,55,WI,Clark
+Wisconsin,55,WI,Columbia
+Wisconsin,55,WI,Crawford
+Wisconsin,55,WI,Dane
+Wisconsin,55,WI,Dodge
+Wisconsin,55,WI,Door
+Wisconsin,55,WI,Douglas
+Wisconsin,55,WI,Dunn
+Wisconsin,55,WI,Eau Claire
+Wisconsin,55,WI,Florence
+Wisconsin,55,WI,Fond du Lac
+Wisconsin,55,WI,Forest
+Wisconsin,55,WI,Grant
+Wisconsin,55,WI,Green
+Wisconsin,55,WI,Green Lake
+Wisconsin,55,WI,Iowa
+Wisconsin,55,WI,Iron
+Wisconsin,55,WI,Jackson
+Wisconsin,55,WI,Jefferson
+Wisconsin,55,WI,Juneau
+Wisconsin,55,WI,Kenosha
+Wisconsin,55,WI,Kewaunee
+Wisconsin,55,WI,La Crosse
+Wisconsin,55,WI,Lafayette
+Wisconsin,55,WI,Langlade
+Wisconsin,55,WI,Lincoln
+Wisconsin,55,WI,Manitowoc
+Wisconsin,55,WI,Marathon
+Wisconsin,55,WI,Marinette
+Wisconsin,55,WI,Marquette
+Wisconsin,55,WI,Menominee
+Wisconsin,55,WI,Milwaukee
+Wisconsin,55,WI,Monroe
+Wisconsin,55,WI,Oconto
+Wisconsin,55,WI,Oneida
+Wisconsin,55,WI,Outagamie
+Wisconsin,55,WI,Ozaukee
+Wisconsin,55,WI,Pepin
+Wisconsin,55,WI,Pierce
+Wisconsin,55,WI,Polk
+Wisconsin,55,WI,Portage
+Wisconsin,55,WI,Price
+Wisconsin,55,WI,Racine
+Wisconsin,55,WI,Richland
+Wisconsin,55,WI,Rock
+Wisconsin,55,WI,Rusk
+Wisconsin,55,WI,Sauk
+Wisconsin,55,WI,Sawyer
+Wisconsin,55,WI,Shawano
+Wisconsin,55,WI,Sheboygan
+Wisconsin,55,WI,St. Croix
+Wisconsin,55,WI,Taylor
+Wisconsin,55,WI,Trempealeau
+Wisconsin,55,WI,Vernon
+Wisconsin,55,WI,Vilas
+Wisconsin,55,WI,Walworth
+Wisconsin,55,WI,Washburn
+Wisconsin,55,WI,Washington
+Wisconsin,55,WI,Waukesha
+Wisconsin,55,WI,Waupaca
+Wisconsin,55,WI,Waushara
+Wisconsin,55,WI,Winnebago
+Wisconsin,55,WI,Wood
+Wyoming,56,WY,Albany
+Wyoming,56,WY,Big Horn
+Wyoming,56,WY,Campbell
+Wyoming,56,WY,Carbon
+Wyoming,56,WY,Converse
+Wyoming,56,WY,Crook
+Wyoming,56,WY,Fremont
+Wyoming,56,WY,Goshen
+Wyoming,56,WY,Hot Springs
+Wyoming,56,WY,Johnson
+Wyoming,56,WY,Laramie
+Wyoming,56,WY,Lincoln
+Wyoming,56,WY,Natrona
+Wyoming,56,WY,Niobrara
+Wyoming,56,WY,Park
+Wyoming,56,WY,Platte
+Wyoming,56,WY,Sheridan
+Wyoming,56,WY,Sublette
+Wyoming,56,WY,Sweetwater
+Wyoming,56,WY,Teton
+Wyoming,56,WY,Uinta
+Wyoming,56,WY,Washakie
+Wyoming,56,WY,Weston
