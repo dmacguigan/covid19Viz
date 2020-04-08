@@ -247,7 +247,7 @@ for(i in 1:length(cleanCaseData)){
                         limits=c(0,1000000), breaks=c(0,10,100,1000,10000,100000,1000000)) +
     theme(axis.line=element_blank(),axis.text.x=element_blank(),
           axis.text.y=element_blank(),axis.ticks=element_blank(),
-          plot.title = element_text(size = 16, face = "bold"),
+          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
           axis.title.x=element_blank(),
           axis.title.y=element_blank(),
           panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
@@ -282,12 +282,12 @@ for(i in 1:length(cleanCaseData)){
     theme_minimal() +
     ggtitle("Daily new confirmed COVID-19 cases") +
     scale_fill_gradientn(name="", 
-                         colours=c("white", "#9ecae1", "#4292c6", "#08519c", "#08519c", "black"),
-                         #values=c(0,1000,100000),
-                         trans="pseudo_log", labels=comma,
-                         limits=c(0,100000), breaks=c(0,10,100,1000,10000,100000)) +
+                        colours=c("white", "yellow", "#fd8d3c", "#e31a1c", "#800026", "black"),
+                        #values=c(0,1000,100000),
+                        trans="pseudo_log", labels=comma,
+                        limits=c(0,1000000), breaks=c(0,10,100,1000,10000,100000,1000000)) +
     theme(axis.line=element_blank(),axis.text.x=element_blank(),
-          plot.title = element_text(size = 16, face = "bold"),
+          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
           axis.text.y=element_blank(),axis.ticks=element_blank(),
           axis.title.x=element_blank(),
           axis.title.y=element_blank(),
@@ -326,18 +326,17 @@ for(i in 1:length(cleanCaseData)){
     theme_minimal() +
     ggtitle("Cumulative confirmed COVID-19 deaths") +
     scale_fill_gradientn(name="", 
-                        colours=c("white", "yellow", "#fd8d3c", "#e31a1c", "#800026", "black"),
+                        colours=c("white", "#9ecae1", "#4292c6", "#08519c", "#08519c", "black"),
                         #values=c(0,1000,100000),
                         trans="pseudo_log", labels=comma,
                         limits=c(0,1000000), breaks=c(0,10,100,1000,10000,100000,1000000)) +
     theme(axis.line=element_blank(),axis.text.x=element_blank(),
           axis.text.y=element_blank(),axis.ticks=element_blank(),
-          plot.title = element_text(size = 16, face = "bold"),
+          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
           axis.title.x=element_blank(),
           axis.title.y=element_blank(),
           panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),plot.background=element_blank()) +
-    annotate("text", label=gsub(".csv", "", files[i]), x=-117, y=25, cex=8) +
     coord_map()
   
   ##############################
@@ -369,11 +368,11 @@ for(i in 1:length(cleanCaseData)){
     ggtitle("Daily new confirmed COVID-19 deaths") +
     scale_fill_gradientn(name="", 
                          colours=c("white", "#9ecae1", "#4292c6", "#08519c", "#08519c", "black"),
-                         #values=c(0,1000,100000),
-                         trans="pseudo_log", labels=comma,
-                         limits=c(0,100000), breaks=c(0,10,100,1000,10000,100000)) +
+                        #values=c(0,1000,100000),
+                        trans="pseudo_log", labels=comma,
+                        limits=c(0,1000000), breaks=c(0,10,100,1000,10000,100000,1000000)) +
     theme(axis.line=element_blank(),axis.text.x=element_blank(),
-          plot.title = element_text(size = 16, face = "bold"),
+          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
           axis.text.y=element_blank(),axis.ticks=element_blank(),
           axis.title.x=element_blank(),
           axis.title.y=element_blank(),
@@ -381,13 +380,13 @@ for(i in 1:length(cleanCaseData)){
           panel.grid.minor=element_blank(),plot.background=element_blank()) +
     coord_map()
   
-  plots <- arrangeGrob(grobs=list(map,map2,map3,map4), nrow=2, ncol=2)
+  plots <- arrangeGrob(grobs=list(map,map2,map3,map4), nrow=2, ncol=2, top=textGrob(gsub(".csv", "", files[i]), gp=gpar(fontsize=24,fontface="bold")))
 
   # save maps as PNG files
   setwd("/Users/dmacguigan/Documents/covid19/plots/dayPlots")
   ggsave(plot=plots,
          filename = paste(gsub(".csv", "", files[i]), ".png", sep=""),
-         width = 12, height = 6,
+         width = 12, height = 6.5,
          device = "png",
          dpi=600)
 
@@ -489,7 +488,7 @@ for(i in 1:length(cleanCaseData_county)){
                          limits=c(0,100000), breaks=c(0,10,100,1000,10000,100000)) +
     theme(axis.line=element_blank(),axis.text.x=element_blank(),
           axis.text.y=element_blank(),axis.ticks=element_blank(),
-          plot.title = element_text(size = 16, face = "bold"),
+          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
           axis.title.x=element_blank(),
           axis.title.y=element_blank(),
           panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
@@ -534,11 +533,11 @@ for(i in 1:length(cleanCaseData_county)){
     theme_minimal() +
     ggtitle("Daily new confirmed COVID-19 cases") +
     scale_fill_gradientn(name="", 
-                         colours=c("white", "#9ecae1", "#4292c6", "#08519c", "#08519c", "black"),
+                         colours=c("white", "yellow", "#fd8d3c", "#e31a1c", "#800026", "black"),
                          trans="pseudo_log", labels=comma,
-                         limits=c(0,10000), breaks=c(0,10,100,1000,10000)) +
+                         limits=c(0,100000), breaks=c(0,10,100,1000,10000,100000)) +
     theme(axis.line=element_blank(),axis.text.x=element_blank(),
-          plot.title = element_text(size = 16, face = "bold"),
+          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
           axis.text.y=element_blank(),axis.ticks=element_blank(),
           axis.title.x=element_blank(),
           axis.title.y=element_blank(),
@@ -578,17 +577,16 @@ for(i in 1:length(cleanCaseData_county)){
     theme_minimal() +
     ggtitle("Cumulative confirmed COVID-19 deaths") +
     scale_fill_gradientn(name="", 
-                         colours=c("white", "yellow", "#fd8d3c", "#e31a1c", "#800026", "black"),
+                         colours=c("white", "#9ecae1", "#4292c6", "#08519c", "#08519c", "black"),
                          trans="pseudo_log", labels=comma,
                          limits=c(0,100000), breaks=c(0,10,100,1000,10000,100000)) +
     theme(axis.line=element_blank(),axis.text.x=element_blank(),
           axis.text.y=element_blank(),axis.ticks=element_blank(),
-          plot.title = element_text(size = 16, face = "bold"),
+          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
           axis.title.x=element_blank(),
           axis.title.y=element_blank(),
           panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
           panel.grid.minor=element_blank(),plot.background=element_blank()) +
-    annotate("text", label=gsub(".csv", "", files[i+60]), x=-117, y=25, cex=8) +
     geom_polygon(data=states, aes(x=long, y=lat, group=group), fill=NA, colour="gray", lwd=0.25)+
     coord_map()
   
@@ -631,9 +629,9 @@ for(i in 1:length(cleanCaseData_county)){
     scale_fill_gradientn(name="", 
                          colours=c("white", "#9ecae1", "#4292c6", "#08519c", "#08519c", "black"),
                          trans="pseudo_log", labels=comma,
-                         limits=c(0,10000), breaks=c(0,10,100,1000,10000)) +
+                         limits=c(0,100000), breaks=c(0,10,100,1000,10000,100000)) +
     theme(axis.line=element_blank(),axis.text.x=element_blank(),
-          plot.title = element_text(size = 16, face = "bold"),
+          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
           axis.text.y=element_blank(),axis.ticks=element_blank(),
           axis.title.x=element_blank(),
           axis.title.y=element_blank(),
@@ -643,13 +641,13 @@ for(i in 1:length(cleanCaseData_county)){
     coord_map()
   
   
-  plots <- arrangeGrob(grobs=list(map,map2,map3,map4), nrow=2, ncol=2)
+  plots <- arrangeGrob(grobs=list(map,map2,map3,map4), nrow=2, ncol=2, top=textGrob(gsub(".csv", "", files[i]), gp=gpar(fontsize=24,fontface="bold")))
   
   # save maps as PNG files
   setwd("/Users/dmacguigan/Documents/covid19/plots/dayPlots_counties")
   ggsave(plot=plots,
          filename = paste(gsub(".csv", "", files[i+60]), "_counties.png", sep=""),
-         width = 12, height = 6,
+         width = 12, height = 6.5,
          device = "png",
          dpi=600)
 }
