@@ -6,6 +6,5 @@ This repository contains scripts and data necessary to produce the following plo
 
 County data is only available starting on March 22.
 
-![Alt Text](https://github.com/dmacguigan/covid19Viz/tree/master/plots/US_covid-19_timelapse_counties.gif)
+![Alt Text](https://github.com/dmacguigan/covid19Viz/blob/master/plots/US_covid-19_timelapse_counties.gif)
 
-![Alt_Text](https://github.com/dmacguigan/covid19Viz/blob/master/plots/dayPlots/01-22-2020.png)
