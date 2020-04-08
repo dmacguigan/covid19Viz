@@ -191,229 +191,14 @@ for(i in 1:length(cleanCaseData)){
 }
 
 
-########################################################################################################################
-# plot Covid-19 case data by state
-########################################################################################################################
-
-# read in state shapefiles
-# data from https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
-states <- readOGR("/Users/dmacguigan/Documents/covid19/shapefiles/cb_2018_us_state_5m", "cb_2018_us_state_5m")
-states@data$id = rownames(states@data)
-states.points = fortify(states, region="id")
-states.df = join(states.points, states@data, by="id")
-
-# read in list of US counties and states
-stateCountyRef <- read.csv("/Users/dmacguigan/Documents/covid19/data/stateList.csv", header=TRUE)
-stateCountyRef$FIPS <- formatC(stateCountyRef$FIPS, width=2, format="d", flag = "0")
-stateCountyRef$stateFIPS_name <- paste(stateCountyRef$FIPS, stateCountyRef$county, sep="_")
-
-# plot map
-for(i in 1:length(cleanCaseData)){
-  print(i)
-  
-  ##############################
-  # cumulative cases
-  ##############################
-  
-  # create some temporary data structures
-  temp.df <- states.df
-  temp.df$Confirmed <- rep(0,nrow(temp.df))
-  
-  # function to replace values in temp.df with matching number of Confirmed cases
-  replace <- function(toReplaceVector, toMatchVector, matchValue, replaceValue){
-    matchIndex <- which(toMatchVector == matchValue)
-    toReplaceVector[matchIndex] <- replaceValue
-    return(toReplaceVector)
-  }
-  
-  for(j in 1:nrow(cleanCaseData[[i]])){
-    temp.df$Confirmed <- replace(temp.df$Confirmed, 
-            as.character(temp.df$NAME),
-            as.character(cleanCaseData[[i]]$Province.State[j]),
-            cleanCaseData[[i]]$Confirmed[j] )
-  }
-  
-  # plot cumulative cases map
-  map <- ggplot(temp.df) +
-    aes(long, lat, group=group, fill=Confirmed) +
-    geom_polygon(colour = "gray", lwd=0.4) +
-    ylim(c(24, 50)) +
-    xlim(c(-127, -65)) +
-    theme_minimal() +
-    ggtitle("Cumulative confirmed COVID-19 cases") +
-    scale_fill_gradientn(name="", 
-                        colours=c("white", "yellow", "#fd8d3c", "#e31a1c", "#800026", "black"),
-                        #values=c(0,1000,100000),
-                        trans="pseudo_log", labels=comma,
-                        limits=c(0,1000000), breaks=c(0,10,100,1000,10000,100000,1000000)) +
-    theme(axis.line=element_blank(),axis.text.x=element_blank(),
-          axis.text.y=element_blank(),axis.ticks=element_blank(),
-          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
-          axis.title.x=element_blank(),
-          axis.title.y=element_blank(),
-          panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
-          panel.grid.minor=element_blank(),plot.background=element_blank()) +
-    coord_map()
-  
-  ##############################
-  # daily new cases
-  ##############################
-  
-  # create some temporary data structures
-  temp.df_prevDay <- states.df
-  temp.df_prevDay$Confirmed <- rep(0,nrow(temp.df))
-    
-  if(i > 1){
-    for(j in 1:nrow(cleanCaseData[[i-1]])){
-      temp.df_prevDay$Confirmed <- replace(temp.df_prevDay$Confirmed, 
-                                   as.character(temp.df$NAME),
-                                   as.character(cleanCaseData[[i-1]]$Province.State[j]),
-                                   cleanCaseData[[i-1]]$Confirmed[j] )
-    }
-    temp.df$Confirmed <- temp.df$Confirmed - temp.df_prevDay$Confirmed
-    temp.df$Confirmed[temp.df$Confirmed<0] <- 0
-  }
-  
-  # plot daily new cases map
-  map2 <- ggplot(temp.df) +
-    aes(long, lat, group=group, fill=Confirmed) +
-    geom_polygon(colour = "gray", lwd=0.4) +
-    ylim(c(24, 50)) +
-    xlim(c(-127, -65)) +
-    theme_minimal() +
-    ggtitle("Daily new confirmed COVID-19 cases") +
-    scale_fill_gradientn(name="", 
-                        colours=c("white", "yellow", "#fd8d3c", "#e31a1c", "#800026", "black"),
-                        #values=c(0,1000,100000),
-                        trans="pseudo_log", labels=comma,
-                        limits=c(0,1000000), breaks=c(0,10,100,1000,10000,100000,1000000)) +
-    theme(axis.line=element_blank(),axis.text.x=element_blank(),
-          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
-          axis.text.y=element_blank(),axis.ticks=element_blank(),
-          axis.title.x=element_blank(),
-          axis.title.y=element_blank(),
-          panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
-          panel.grid.minor=element_blank(),plot.background=element_blank()) +
-    coord_map()
-
-  ##############################
-  # cumulative deaths
-  ##############################
-  
-  # create some temporary data structures
-  temp.df <- states.df
-  temp.df$Deaths <- rep(0,nrow(temp.df))
-  
-  # function to replace values in temp.df with matching number of Confirmed deaths
-  replace <- function(toReplaceVector, toMatchVector, matchValue, replaceValue){
-    matchIndex <- which(toMatchVector == matchValue)
-    toReplaceVector[matchIndex] <- replaceValue
-    return(toReplaceVector)
-  }
-  
-  for(j in 1:nrow(cleanCaseData[[i]])){
-    temp.df$Deaths <- replace(temp.df$Deaths, 
-            as.character(temp.df$NAME),
-            as.character(cleanCaseData[[i]]$Province.State[j]),
-            cleanCaseData[[i]]$Deaths[j] )
-  }
-  
-  # plot cumulative deaths map
-  map3 <- ggplot(temp.df) +
-    aes(long, lat, group=group, fill=Deaths) +
-    geom_polygon(colour = "gray", lwd=0.4) +
-    ylim(c(24, 50)) +
-    xlim(c(-127, -65)) +
-    theme_minimal() +
-    ggtitle("Cumulative confirmed COVID-19 deaths") +
-    scale_fill_gradientn(name="", 
-                        colours=c("white", "#9ecae1", "#4292c6", "#08519c", "#08519c", "black"),
-                        #values=c(0,1000,100000),
-                        trans="pseudo_log", labels=comma,
-                        limits=c(0,1000000), breaks=c(0,10,100,1000,10000,100000,1000000)) +
-    theme(axis.line=element_blank(),axis.text.x=element_blank(),
-          axis.text.y=element_blank(),axis.ticks=element_blank(),
-          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
-          axis.title.x=element_blank(),
-          axis.title.y=element_blank(),
-          panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
-          panel.grid.minor=element_blank(),plot.background=element_blank()) +
-    coord_map()
-  
-  ##############################
-  # daily new deaths
-  ##############################
-  
-  # create some temporary data structures
-  temp.df_prevDay <- states.df
-  temp.df_prevDay$Deaths <- rep(0,nrow(temp.df))
-    
-  if(i > 1){
-    for(j in 1:nrow(cleanCaseData[[i-1]])){
-      temp.df_prevDay$Deaths <- replace(temp.df_prevDay$Deaths, 
-                                   as.character(temp.df$NAME),
-                                   as.character(cleanCaseData[[i-1]]$Province.State[j]),
-                                   cleanCaseData[[i-1]]$Deaths[j] )
-    }
-    temp.df$Deaths <- temp.df$Deaths - temp.df_prevDay$Deaths
-    temp.df$Deaths[temp.df$Deaths<0] <- 0
-  }
-  
-  # plot daily new deaths map
-  map4 <- ggplot(temp.df) +
-    aes(long, lat, group=group, fill=Deaths) +
-    geom_polygon(colour = "gray", lwd=0.4) +
-    ylim(c(24, 50)) +
-    xlim(c(-127, -65)) +
-    theme_minimal() +
-    ggtitle("Daily new confirmed COVID-19 deaths") +
-    scale_fill_gradientn(name="", 
-                         colours=c("white", "#9ecae1", "#4292c6", "#08519c", "#08519c", "black"),
-                        #values=c(0,1000,100000),
-                        trans="pseudo_log", labels=comma,
-                        limits=c(0,1000000), breaks=c(0,10,100,1000,10000,100000,1000000)) +
-    theme(axis.line=element_blank(),axis.text.x=element_blank(),
-          plot.title = element_text(size = 16, hjust = 0.5, face = "bold"),
-          axis.text.y=element_blank(),axis.ticks=element_blank(),
-          axis.title.x=element_blank(),
-          axis.title.y=element_blank(),
-          panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
-          panel.grid.minor=element_blank(),plot.background=element_blank()) +
-    coord_map()
-  
-  plots <- arrangeGrob(grobs=list(map,map2,map3,map4), nrow=2, ncol=2, top=textGrob(gsub(".csv", "", files[i]), gp=gpar(fontsize=24,fontface="bold")))
-
-  # save maps as PNG files
-  setwd("/Users/dmacguigan/Documents/covid19/plots/dayPlots")
-  ggsave(plot=plots,
-         filename = paste(gsub(".csv", "", files[i]), ".png", sep=""),
-         width = 12, height = 6.5,
-         device = "png",
-         dpi=600)
-
-
-}
-
-########################################################################################################################
-# create gif of Covid-19 case data maps by state
-# need to have ImageMacick installed
-# https://imagemagick.org/index.php
-# alternatively, use external software (e.g. Adobe Illustrator)
-########################################################################################################################
-
-setwd("/Users/dmacguigan/Documents/covid19/plots/dayPlots")
-
-# NEED TO UPDATE THE LAST FILE NAME AFTER "-delay 500" BASED ON CURRENT JHU REPO
-# second delay lets the gif pause on the final frame
-system("convert -delay 60 *.png -delay 500 04-07-2020.png US_covid-19_timelapse.gif")
-
-file.move("/Users/dmacguigan/Documents/covid19/plots/dayPlots/US_covid-19_timelapse.gif", 
-"/Users/dmacguigan/Documents/covid19/plots/", 
-overwrite=TRUE)
 
 ########################################################################################################################
 # plot Covid-19 case data by county
 ########################################################################################################################
+
+
+
+
 
 # read in list of US counties and states
 stateCountyRef <- read.csv("/Users/dmacguigan/Documents/covid19/data/stateList.csv", header=TRUE)
@@ -449,6 +234,15 @@ counties@data$FIPS_county <- as.numeric(paste(as.character(counties@data$STATEFP
 counties@data$id = rownames(counties@data)
 counties.points = fortify(counties, region="id")
 counties.df = join(counties.points, counties@data, by="id")
+
+
+# read in state shapefiles
+# data from https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+states <- readOGR("/Users/dmacguigan/Documents/covid19/shapefiles/cb_2018_us_state_5m", "cb_2018_us_state_5m")
+states@data$id = rownames(states@data)
+states.points = fortify(states, region="id")
+states.df = join(states.points, states@data, by="id")
+
 
 # plot map
 for(i in 1:length(cleanCaseData_county)){
