@@ -405,7 +405,7 @@ setwd("/Users/dmacguigan/Documents/covid19/plots/dayPlots")
 
 # NEED TO UPDATE THE LAST FILE NAME AFTER "-delay 500" BASED ON CURRENT JHU REPO
 # second delay lets the gif pause on the final frame
-system("convert -delay 60 *.png -delay 500 04-07-2020.png US_covid-19_timelapse.gif")
+system("convert -delay 30 *.png -delay 400 04-19-2020.png US_covid-19_timelapse.gif")
 
 file.move("/Users/dmacguigan/Documents/covid19/plots/dayPlots/US_covid-19_timelapse.gif", 
 "/Users/dmacguigan/Documents/covid19/plots/", 
@@ -664,7 +664,7 @@ setwd("/Users/dmacguigan/Documents/covid19/plots/dayPlots_counties")
 
 # NEED TO UPDATE THE LAST FILE NAME AFTER "-delay 500" BASED ON CURRENT JHU REPO
 # second delay lets the gif pause on the final frame
-system("convert -delay 60 *.png -delay 500 04-07-2020_counties.png US_covid-19_timelapse_counties.gif")
+system("convert -delay 30 *.png -delay 400 04-19-2020_counties.png US_covid-19_timelapse_counties.gif")
 
 file.move("/Users/dmacguigan/Documents/covid19/plots/dayPlots_counties/US_covid-19_timelapse_counties.gif", 
 "/Users/dmacguigan/Documents/covid19/plots/",
